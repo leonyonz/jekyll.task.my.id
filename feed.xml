@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-04-30T18:49:32+08:00</updated>
+  <updated>2021-04-30T19:08:29+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -60,23 +60,21 @@ Create GA account a...
 
   
   <entry>
-    <title>Customize the Favicon</title>
-    <link href="/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <title>Simple Web Server Using Python</title>
+    <link href="/posts/Simpel-Web-Server-Using-Pyton-for-Testing/" rel="alternate" type="text/html" title="Simple Web Server Using Python" />
+    <published>2020-10-19T11:55:42+08:00</published>
   
-    <updated>2019-08-11T00:34:00+08:00</updated>
+    <updated>2020-10-19T11:55:42+08:00</updated>
   
-    <id>/posts/customize-the-favicon/</id>
-    <content src="/posts/customize-the-favicon/" />
+    <id>/posts/Simpel-Web-Server-Using-Pyton-for-Testing/</id>
+    <content src="/posts/Simpel-Web-Server-Using-Pyton-for-Testing/" />
     <author>
-      <name>Cotes Chung</name>
+      <name>zima</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="blog" />
     
   
 
@@ -88,11 +86,11 @@ Create GA account a...
 
 
 
-      The favicons of Chirpy are placed in the directory assets/img/favicons/. You may need to replace them with your own. The following sections will guide you how to create and replace the default favicons.
+      Post ini hanya sekedar catatan yang saya alami dimana saya membutuhkan web server untuk melakukan testing namun kondisi server tidak bisa terhubung internet sehingga tidak bisa install paket, jadi solusinya yaitu menggunakan python sebagai simple web server, karena secara default pyhton sudah terinstall entah itu pyton2 atau python3 :
 
-Generate the favicon
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool Real Favicon Generator and click button Select your Favicon image ...
+  Bikin file index.html
+    echo "this is website for test...
     </summary>
   
 
@@ -100,23 +98,21 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
   
   <entry>
-    <title>Getting Started</title>
-    <link href="/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
+    <title>Perbedaan Shared Hosting, VPS dan Dedicated Hosting</title>
+    <link href="/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/" rel="alternate" type="text/html" title="Perbedaan Shared Hosting, VPS dan Dedicated Hosting" />
+    <published>2020-10-17T22:44:48+08:00</published>
   
-    <updated>2019-08-09T20:55:00+08:00</updated>
+    <updated>2020-10-17T22:44:48+08:00</updated>
   
-    <id>/posts/getting-started/</id>
-    <content src="/posts/getting-started/" />
+    <id>/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/</id>
+    <content src="/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/" />
     <author>
-      <name>Cotes Chung</name>
+      <name>Leon Sastra</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Blog" />
     
   
 
@@ -128,20 +124,13 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
 
 
 
-      Prerequisites
+      Pada post kali ini, saya ingin berbagi informasi tentang perbedaan dari Shared Hosting, VPS, dan Dedicated Hosting.
 
-Follow the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll and Bundler.
+Shared Hosting
 
-Installation
+Pertama adalah shared hosting, shared hosting ini merupakan layanan hosting yang disediakan untuk user dalam menempatkan data data ataupun aplikasi.
 
-There are two ways to get the theme:
-
-
-  Install from RubyGems - Easy to update, isolate irrelevant project files so you can focus on writing.
-  Fork on GitHub - Convenient for custom development, but difficult to update, only suitable for web developers.
-
-
-Installing the The...
+Untuk pengelolaan layanan biasanya user sudah mendapatkan akses control panel namun tidak memiliki akses root ke s...
     </summary>
   
 
@@ -149,23 +138,21 @@ Installing the The...
 
   
   <entry>
-    <title>Writing a New Post</title>
-    <link href="/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T14:10:00+08:00</published>
+    <title>Markdown Editor Menggunakan StackEdit</title>
+    <link href="/posts/Markdown-Editor-Menggunakan-StackEdit/" rel="alternate" type="text/html" title="Markdown Editor Menggunakan StackEdit" />
+    <published>2020-10-17T11:18:30+08:00</published>
   
-    <updated>2019-08-08T14:10:00+08:00</updated>
+    <updated>2020-10-17T11:18:30+08:00</updated>
   
-    <id>/posts/write-a-new-post/</id>
-    <content src="/posts/write-a-new-post/" />
+    <id>/posts/Markdown-Editor-Menggunakan-StackEdit/</id>
+    <content src="/posts/Markdown-Editor-Menggunakan-StackEdit/" />
     <author>
-      <name>Cotes Chung</name>
+      <name>Leon Sastra</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Blog" />
     
   
 
@@ -177,19 +164,11 @@ Installing the The...
 
 
 
-      Naming and Path
+      Pada post kali ini, saya ingin berbagi pengetahuan tentang tool utilitas yang biasanya membantu saya untuk melakukan editing konten yang mengandung Markdown.
 
-Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts/ of the root directory. Please note that the EXTENSION must be one of md and markdown.
+Tool ini bernama StackEdit, jadi StackEdit ini merupakan Markdown editor berbasis aplikasi web yang memiliki banyak fitur yang sangat membantu dalam melakukan editing konten yang menggunakan Markdown.
 
-Front Matter
-
-Basically, you need to fill the Front Matter as below at the top of the post:
-
----
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names s...
+Biar ga penasaran ini tampilan si St...
     </summary>
   
 
@@ -197,23 +176,21 @@ tags: [TAG]     # TAG names s...
 
   
   <entry>
-    <title>Text and Typography</title>
-    <link href="/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-08T11:33:00+08:00</published>
+    <title>Konfigurasi General Apache+PHP-FPM</title>
+    <link href="/posts/Konfigurasi-General-Apache-FPM/" rel="alternate" type="text/html" title="Konfigurasi General Apache+PHP-FPM" />
+    <published>2020-10-16T21:34:22+08:00</published>
   
-    <updated>2019-08-08T11:33:00+08:00</updated>
+    <updated>2020-10-16T21:34:22+08:00</updated>
   
-    <id>/posts/text-and-typography/</id>
-    <content src="/posts/text-and-typography/" />
+    <id>/posts/Konfigurasi-General-Apache-FPM/</id>
+    <content src="/posts/Konfigurasi-General-Apache-FPM/" />
     <author>
-      <name>Cotes Chung</name>
+      <name>Leon Sastra</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Demo" />
+    <category term="Blog" />
     
   
 
@@ -225,31 +202,13 @@ tags: [TAG]     # TAG names s...
 
 
 
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
+      Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan.
 
-Titles
+Jika ditanya alasan penggunaan PHP-FPM pada apache, alasan saya sebetulnya simpel saja, “Sudah Terbiasa” dan enak juga untuk setting multiple PHP.
 
-H1 - heading
+Saya lampirkan juga artikel yang mungkin bisa membantu kalian: Difference between PHP-CGI and PHP-FPM
 
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-
-
-Paragraph
-
-I wandered lonely as a cloud
-
-That floats on high o’er vales and hills,
-
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the t...
+Langsung saja berikut konfigurasi Virt...
     </summary>
   
 

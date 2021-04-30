@@ -16,6 +16,186 @@
   },
   
   {
+    "title": "Simple Web Server Using Python",
+    "url": "/posts/Simpel-Web-Server-Using-Pyton-for-Testing/",
+    "categories": "blog",
+    "tags": "python, webserver",
+    "date": "2020-10-19 11:55:42 +0800",
+    
+
+
+
+
+
+    "snippet": "Post ini hanya sekedar catatan yang saya alami dimana saya membutuhkan web server untuk melakukan testing namun kondisi server tidak bisa terhubung internet sehingga tidak bisa install paket, jadi solusinya yaitu menggunakan python sebagai simple web server, karena secara default pyhton sudah ter..."
+  },
+  
+  {
+    "title": "Perbedaan Shared Hosting, VPS dan Dedicated Hosting",
+    "url": "/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/",
+    "categories": "Blog",
+    "tags": "Hosting, VPS",
+    "date": "2020-10-17 22:44:48 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada post kali ini, saya ingin berbagi informasi tentang perbedaan dari Shared Hosting, VPS, dan Dedicated Hosting.Shared HostingPertama adalah shared hosting, shared hosting ini merupakan layanan hosting yang disediakan untuk user dalam menempatkan data data ataupun aplikasi.Untuk pengelolaan la..."
+  },
+  
+  {
+    "title": "Markdown Editor Menggunakan StackEdit",
+    "url": "/posts/Markdown-Editor-Menggunakan-StackEdit/",
+    "categories": "Blog",
+    "tags": "StackEdit, Docker",
+    "date": "2020-10-17 11:18:30 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada post kali ini, saya ingin berbagi pengetahuan tentang tool utilitas yang biasanya membantu saya untuk melakukan editing konten yang mengandung Markdown.Tool ini bernama StackEdit, jadi StackEdit ini merupakan Markdown editor berbasis aplikasi web yang memiliki banyak fitur yang sangat memban..."
+  },
+  
+  {
+    "title": "Konfigurasi General Apache+PHP-FPM",
+    "url": "/posts/Konfigurasi-General-Apache-FPM/",
+    "categories": "Blog",
+    "tags": "Apache, PHP-FPM",
+    "date": "2020-10-16 21:34:22 +0800",
+    
+
+
+
+
+
+    "snippet": "Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan.Jika ditanya alasan penggunaan PHP-FPM pada apache, alasan saya sebetulnya simpel saja, “Sudah Terbiasa” dan enak juga untuk setting multiple PHP.Saya lampirkan juga artikel yang mungkin bisa..."
+  },
+  
+  {
+    "title": "Konfigurasi Reverse Proxy Nginx Pada Centos7",
+    "url": "/posts/Konfigurasi-Reverse-Proxy-Nginx-Pada-Centos-7/",
+    "categories": "Blog, Lab",
+    "tags": "Nginx, Centos, Reverse-proxy",
+    "date": "2020-10-16 14:46:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Reverse-Proxy-with-NginxDokumentasi untuk Lab Reverse Proxy with Nginx Centos 7TaskInstalasi &amp;amp; Konfigurasi:  Apache (Port 8080)  Nginx as Reverse Proxy (Port 80)  MariaDB 10.1  PHPKetentuan:  WordPress: wordpress.domain.tld (PHP 7.2, Port 8080 + Reverse Proxy) dengan Document Root di /hom..."
+  },
+  
+  {
+    "title": "Konfigurasi General Nginx+PHP",
+    "url": "/posts/Konfigurasi-General-Nginx-PHP/",
+    "categories": "blog",
+    "tags": "nginx, php",
+    "date": "2020-10-16 11:55:42 +0800",
+    
+
+
+
+
+
+    "snippet": "Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan, berikut konfigurasi server block nginx yang biasa saya gunakan :server {        root /path/website;        index index.php index.html index.htm;        server_name domain.tld;        access_..."
+  },
+  
+  {
+    "title": "Konfigurasi SSH Key Pada Gitlab",
+    "url": "/posts/Konfigurasi-SSH-Key-Pada-Gitlab/",
+    "categories": "Blog",
+    "tags": "Git, GitLab, SSH",
+    "date": "2020-10-15 18:10:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Biasanya kita akan diminta password setiap kali push ke Gitlab. Setiap kali melakukan push kita diminta mengisi username dan password yang dimana akan sangat menyebalkan jika terjadi berulang kali.Jika kita menggunakan SSH Key, kita tidak perlu lagi mengisi username dan password.Berikut langkah-l..."
+  },
+  
+  {
+    "title": "Integrasi S3 Menggunakan PHP-SDK",
+    "url": "/posts/Integrasi-S3-Menggunakan-PHP-SDK/",
+    "categories": "Blog, S3",
+    "tags": "PHP",
+    "date": "2020-10-14 13:17:43 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada post ini saya ingin berbagi source code yang biasanya saya gunakan untuk melakukan integrasi S3 dengan PHP.Terdapat beberapa code dasar yang ingin saya bagikan yaitu:      Koneksi S3    Create Bucket    Listing Bucket    Upload Object    Delete Object    Contoh Full Code  Sebelum kita mulai ..."
+  },
+  
+  {
+    "title": "Implementasi WordPress Load Balance pada layer 7",
+    "url": "/posts/Implementasi-WordPress-Load-Balance-Layer-7/",
+    "categories": "blog",
+    "tags": "Wordpress",
+    "date": "2020-10-13 21:17:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Repositori berisi langkah konfigurasi load balancing pada WordPress khususnya pada layer 7Topology :Catatan : Sistem operasi yang digunakan pada dokumentasi ini adalah CentOS 7, apabila Anda menggunakan sistem operasi selain CentOS 7 maka diperlukan penyesuaian terlebih dahulu pada keseluruh scri..."
+  },
+  
+  {
+    "title": "cURL Looping Untuk Testing Load Balance Web Server",
+    "url": "/posts/cURL-Looping-Untuk-Testing-Load-Balance-Web-Server/",
+    "categories": "blog",
+    "tags": "bash",
+    "date": "2020-10-13 17:14:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Biasanya saya memanfaatkan looping menggunakan bash script untuk melakukan pengetasan, dalam hal ini yang akan dites adalah Load Balancing pada Web Server dan tool yang digunakan adalah cURL.Berikut script yang saya gunakan :for ((i=1;i&amp;lt;=3;i++)); do sleep 2; curl -i &quot;ip-address&quot;;..."
+  },
+  
+  {
+    "title": "Percepat Alur Development Git Menggunakan Bash",
+    "url": "/posts/Percepat-Alur-Development-Git-Menggunakan-Bash/",
+    "categories": "Blog",
+    "tags": "Git, Bash",
+    "date": "2020-10-12 15:14:53 +0800",
+    
+
+
+
+
+
+    "snippet": "Berikut adalah script yang saya gunakan untuk mempercepat proses Add, Commit, dan Push ke repository utama :#!/bin/bashcd ~/nama-repo-lokalgit add .## add commit messageread -p &quot;Masukan Commit : &quot; commitgit commit -m &quot;$commit&quot;#push to mastergit push origin masterPenjelasan:  c..."
+  },
+  
+  {
+    "title": "Belajar CI/CD Menggunakan GitLab dan Jekyll",
+    "url": "/posts/Belajar-CI-CD-Menggunakan-GitLab-dan-Jekyll/",
+    "categories": "Blog",
+    "tags": "CI-CD",
+    "date": "2020-10-11 00:00:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Perlu diperhatikan, sebelum dapat mengikuti langkah pada post ini, Anda perlu menyiapkan sebuah repository GitLab, VM Host, dan source theme atau website statis berbasis Jekyll.Berikut terlampir dokumentasi resmi untuk instalasi Jekyll : https://jekyllrb.com/docs/Buat Project GitLabSetelah projec..."
+  },
+  
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",
