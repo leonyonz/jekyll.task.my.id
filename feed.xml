@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-04-30T19:11:52+08:00</updated>
+  <updated>2021-04-30T19:17:10+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>/</uri>
@@ -20,23 +20,21 @@
 
   
   <entry>
-    <title>Enable Google Page Views</title>
-    <link href="/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-04T07:32:00+08:00</published>
+    <title>Percobaan Post</title>
+    <link href="/posts/Post-Percobaan/" rel="alternate" type="text/html" title="Percobaan Post" />
+    <published>2020-12-18T21:16:35+08:00</published>
   
-    <updated>2021-01-04T07:32:00+08:00</updated>
+    <updated>2020-12-18T21:16:35+08:00</updated>
   
-    <id>/posts/enable-google-pv/</id>
-    <content src="/posts/enable-google-pv/" />
+    <id>/posts/Post-Percobaan/</id>
+    <content src="/posts/Post-Percobaan/" />
     <author>
-      <name>Dinesh Prasanth Moluguwan Krishnamoorthy</name>
+      <name>nurhamim</name>
     </author>
 
   
     
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="linux" />
     
   
 
@@ -48,11 +46,13 @@
 
 
 
-      This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv.* empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let’s start with the setup.
+      Welcome to StackEdit!
 
-Set up Google Analytics
+Hi! I’m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the file explorer on the left corner of the navigation bar.
 
-Create GA account a...
+Files
+
+StackEdit stores your files in your browser, which means all your files are automati...
     </summary>
   
 
@@ -60,21 +60,21 @@ Create GA account a...
 
   
   <entry>
-    <title>Simple Web Server Using Python</title>
-    <link href="/posts/Simpel-Web-Server-Using-Pyton-for-Testing/" rel="alternate" type="text/html" title="Simple Web Server Using Python" />
-    <published>2020-10-19T11:55:42+08:00</published>
+    <title>Pengujian Markdown</title>
+    <link href="/posts/pengujian-markdown/" rel="alternate" type="text/html" title="Pengujian Markdown" />
+    <published>2020-12-18T18:26:35+08:00</published>
   
-    <updated>2020-10-19T11:55:42+08:00</updated>
+    <updated>2020-12-18T18:26:35+08:00</updated>
   
-    <id>/posts/Simpel-Web-Server-Using-Pyton-for-Testing/</id>
-    <content src="/posts/Simpel-Web-Server-Using-Pyton-for-Testing/" />
+    <id>/posts/pengujian-markdown/</id>
+    <content src="/posts/pengujian-markdown/" />
     <author>
-      <name>zima</name>
+      <name>leon</name>
     </author>
 
   
     
-    <category term="blog" />
+    <category term="linux" />
     
   
 
@@ -86,11 +86,13 @@ Create GA account a...
 
 
 
-      Post ini hanya sekedar catatan yang saya alami dimana saya membutuhkan web server untuk melakukan testing namun kondisi server tidak bisa terhubung internet sehingga tidak bisa install paket, jadi solusinya yaitu menggunakan python sebagai simple web server, karena secara default pyhton sudah terinstall entah itu pyton2 atau python3 :
+      Welcome to StackEdit!
 
+Hi! I’m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the file explorer on the left corner of the navigation bar.
 
-  Bikin file index.html
-    echo "this is website for test...
+Files
+
+StackEdit stores your files in your browser, which means all your files are automati...
     </summary>
   
 
@@ -98,21 +100,25 @@ Create GA account a...
 
   
   <entry>
-    <title>Perbedaan Shared Hosting, VPS dan Dedicated Hosting</title>
-    <link href="/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/" rel="alternate" type="text/html" title="Perbedaan Shared Hosting, VPS dan Dedicated Hosting" />
-    <published>2020-10-17T22:44:48+08:00</published>
+    <title>Docker: Cara Instalasi Docker Pada Linux</title>
+    <link href="/posts/docker-installasi-docker-pada-linux/" rel="alternate" type="text/html" title="Docker: Cara Instalasi Docker Pada Linux" />
+    <published>2020-12-14T15:21:36+08:00</published>
   
-    <updated>2020-10-17T22:44:48+08:00</updated>
+    <updated>2020-12-14T15:21:36+08:00</updated>
   
-    <id>/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/</id>
-    <content src="/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/" />
+    <id>/posts/docker-installasi-docker-pada-linux/</id>
+    <content src="/posts/docker-installasi-docker-pada-linux/" />
     <author>
-      <name>Leon Sastra</name>
+      <name>leon</name>
     </author>
 
   
     
-    <category term="Blog" />
+    <category term="docker" />
+    
+    <category term="ubuntu" />
+    
+    <category term="centos" />
     
   
 
@@ -124,13 +130,13 @@ Create GA account a...
 
 
 
-      Pada post kali ini, saya ingin berbagi informasi tentang perbedaan dari Shared Hosting, VPS, dan Dedicated Hosting.
+      Pada kali ini Belajar Linux ID ingin berbagi tutorial tentang cara Cara Instalasi Docker Pada Linux (Ubuntu, CentOS, Debian).
 
-Shared Hosting
+Apabila kalian belum mengetahui apa itu Docker, maka kalian perlu membaca kembali artikel kami sebelumnya Docker: Pengenalan Terhadap Docker.
 
-Pertama adalah shared hosting, shared hosting ini merupakan layanan hosting yang disediakan untuk user dalam menempatkan data data ataupun aplikasi.
+Ubuntu/Debian
 
-Untuk pengelolaan layanan biasanya user sudah mendapatkan akses control panel namun tidak memiliki akses root ke s...
+Untuk melakukan instalasi pada Ubuntu/Debian, langkah pertama adalah melakukan update paket repository pada serv...
     </summary>
   
 
@@ -138,21 +144,19 @@ Untuk pengelolaan layanan biasanya user sudah mendapatkan akses control panel na
 
   
   <entry>
-    <title>Markdown Editor Menggunakan StackEdit</title>
-    <link href="/posts/Markdown-Editor-Menggunakan-StackEdit/" rel="alternate" type="text/html" title="Markdown Editor Menggunakan StackEdit" />
-    <published>2020-10-17T11:18:30+08:00</published>
+    <title>Install PHP 8 pada Ubuntu Server 20.04 LTS</title>
+    <link href="/posts/install-php-8-pada-ubuntu-server-20-04-lts/" rel="alternate" type="text/html" title="Install PHP 8 pada Ubuntu Server 20.04 LTS" />
+    <published>2020-12-13T16:11:05+08:00</published>
   
-    <updated>2020-10-17T11:18:30+08:00</updated>
+    <updated>2020-12-13T16:11:05+08:00</updated>
   
-    <id>/posts/Markdown-Editor-Menggunakan-StackEdit/</id>
-    <content src="/posts/Markdown-Editor-Menggunakan-StackEdit/" />
+    <id>/posts/install-php-8-pada-ubuntu-server-20-04-lts/</id>
+    <content src="/posts/install-php-8-pada-ubuntu-server-20-04-lts/" />
     <author>
-      <name>Leon Sastra</name>
+      <name>Imron</name>
     </author>
 
   
-    
-    <category term="Blog" />
     
   
 
@@ -164,11 +168,9 @@ Untuk pengelolaan layanan biasanya user sudah mendapatkan akses control panel na
 
 
 
-      Pada post kali ini, saya ingin berbagi pengetahuan tentang tool utilitas yang biasanya membantu saya untuk melakukan editing konten yang mengandung Markdown.
+      PHP merupakan salah satu bahasa pemrograman server-side yang paling banyak digunakan. Banyak CMS yang populer yang menggunakan PHP dalam bahasa pemrogramannya termasuk WordPress, Magento dan Laravel.
 
-Tool ini bernama StackEdit, jadi StackEdit ini merupakan Markdown editor berbasis aplikasi web yang memiliki banyak fitur yang sangat membantu dalam melakukan editing konten yang menggunakan Markdown.
-
-Biar ga penasaran ini tampilan si St...
+PHP 8 merupakan versi major yang terbaru, dan terdapat penambahan banyak fiturdan optimasisasi termasuk nama argumen, atribut, operator nullsafe, JIT dan perbaikan dalam tipe sistem, penanganan er...
     </summary>
   
 
@@ -176,21 +178,23 @@ Biar ga penasaran ini tampilan si St...
 
   
   <entry>
-    <title>Konfigurasi General Apache+PHP-FPM</title>
-    <link href="/posts/Konfigurasi-General-Apache-FPM/" rel="alternate" type="text/html" title="Konfigurasi General Apache+PHP-FPM" />
-    <published>2020-10-16T21:34:22+08:00</published>
+    <title>CentOS: Membuat Basic Auth Pada HAProxy</title>
+    <link href="/posts/membuat-basic-auth-pada-ha/" rel="alternate" type="text/html" title="CentOS: Membuat Basic Auth Pada HAProxy" />
+    <published>2020-12-13T10:13:52+08:00</published>
   
-    <updated>2020-10-16T21:34:22+08:00</updated>
+    <updated>2020-12-13T10:13:52+08:00</updated>
   
-    <id>/posts/Konfigurasi-General-Apache-FPM/</id>
-    <content src="/posts/Konfigurasi-General-Apache-FPM/" />
+    <id>/posts/membuat-basic-auth-pada-ha/</id>
+    <content src="/posts/membuat-basic-auth-pada-ha/" />
     <author>
-      <name>Leon Sastra</name>
+      <name>leon</name>
     </author>
 
   
     
-    <category term="Blog" />
+    <category term="centos" />
+    
+    <category term="haproxy" />
     
   
 
@@ -202,13 +206,17 @@ Biar ga penasaran ini tampilan si St...
 
 
 
-      Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan.
+      Pada tutorial kali ini kami akan memberikan cara sederhana bagaimana membuat authentikasi login pada halaman Frontend HAProxy menggunakan username dan password, sehingga halaman yang tampil akan menunjukan pop up authentikasi terlebih dahulu sebelum dapat diakses.
 
-Jika ditanya alasan penggunaan PHP-FPM pada apache, alasan saya sebetulnya simpel saja, “Sudah Terbiasa” dan enak juga untuk setting multiple PHP.
 
-Saya lampirkan juga artikel yang mungkin bisa membantu kalian: Difference between PHP-CGI and PHP-FPM
 
-Langsung saja berikut konfigurasi Virt...
+
+
+Untuk mengikuti tutorial kali ini pastikan Anda sudah melakukan instalasi HAProxy, silakan buka konfigurasi haproxy Anda.
+
+
+
+# ...
     </summary>
   
 

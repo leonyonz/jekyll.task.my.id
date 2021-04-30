@@ -1,258 +1,1758 @@
 [
   
   {
-    "title": "Enable Google Page Views",
-    "url": "/posts/enable-google-pv/",
-    "categories": "Blogging, Tutorial",
-    "tags": "google analytics, pageviews",
-    "date": "2021-01-04 07:32:00 +0800",
+    "title": "Percobaan Post",
+    "url": "/posts/Post-Percobaan/",
+    "categories": "linux",
+    "tags": "",
+    "date": "2020-12-18 21:16:35 +0800",
     
 
 
 
 
 
-    "snippet": "This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv.* empty unless you have a good reason. If your website has low traffic, the page views count would discourage you to write m..."
+    "snippet": "Welcome to StackEdit!Hi! I’m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the file explorer on the left corner of the navigation..."
   },
   
   {
-    "title": "Simple Web Server Using Python",
-    "url": "/posts/Simpel-Web-Server-Using-Pyton-for-Testing/",
-    "categories": "blog",
-    "tags": "python, webserver",
-    "date": "2020-10-19 11:55:42 +0800",
+    "title": "Pengujian Markdown",
+    "url": "/posts/pengujian-markdown/",
+    "categories": "linux",
+    "tags": "",
+    "date": "2020-12-18 18:26:35 +0800",
     
 
 
 
 
 
-    "snippet": "Post ini hanya sekedar catatan yang saya alami dimana saya membutuhkan web server untuk melakukan testing namun kondisi server tidak bisa terhubung internet sehingga tidak bisa install paket, jadi solusinya yaitu menggunakan python sebagai simple web server, karena secara default pyhton sudah ter..."
+    "snippet": "Welcome to StackEdit!Hi! I’m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the file explorer on the left corner of the navigation..."
   },
   
   {
-    "title": "Perbedaan Shared Hosting, VPS dan Dedicated Hosting",
-    "url": "/posts/Perbedaan-Shared-Hosting-VPS-dan-Dedicated-Hosting/",
-    "categories": "Blog",
-    "tags": "Hosting, VPS",
-    "date": "2020-10-17 22:44:48 +0800",
+    "title": "Docker: Cara Instalasi Docker Pada Linux",
+    "url": "/posts/docker-installasi-docker-pada-linux/",
+    "categories": "docker, ubuntu, centos",
+    "tags": "",
+    "date": "2020-12-14 15:21:36 +0800",
     
 
 
 
 
 
-    "snippet": "Pada post kali ini, saya ingin berbagi informasi tentang perbedaan dari Shared Hosting, VPS, dan Dedicated Hosting.Shared HostingPertama adalah shared hosting, shared hosting ini merupakan layanan hosting yang disediakan untuk user dalam menempatkan data data ataupun aplikasi.Untuk pengelolaan la..."
+    "snippet": "Pada kali ini Belajar Linux ID ingin berbagi tutorial tentang cara Cara Instalasi Docker Pada Linux (Ubuntu, CentOS, Debian).Apabila kalian belum mengetahui apa itu Docker, maka kalian perlu membaca kembali artikel kami sebelumnya Docker: Pengenalan Terhadap Docker.Ubuntu/DebianUntuk melakukan in..."
   },
   
   {
-    "title": "Markdown Editor Menggunakan StackEdit",
-    "url": "/posts/Markdown-Editor-Menggunakan-StackEdit/",
-    "categories": "Blog",
-    "tags": "StackEdit, Docker",
-    "date": "2020-10-17 11:18:30 +0800",
+    "title": "Install PHP 8 pada Ubuntu Server 20.04 LTS",
+    "url": "/posts/install-php-8-pada-ubuntu-server-20-04-lts/",
+    "categories": "",
+    "tags": "",
+    "date": "2020-12-13 16:11:05 +0800",
     
 
 
 
 
 
-    "snippet": "Pada post kali ini, saya ingin berbagi pengetahuan tentang tool utilitas yang biasanya membantu saya untuk melakukan editing konten yang mengandung Markdown.Tool ini bernama StackEdit, jadi StackEdit ini merupakan Markdown editor berbasis aplikasi web yang memiliki banyak fitur yang sangat memban..."
+    "snippet": "PHP merupakan salah satu bahasa pemrograman server-side yang paling banyak digunakan. Banyak CMS yang populer yang menggunakan PHP dalam bahasa pemrogramannya termasuk WordPress, Magento dan Laravel.PHP 8 merupakan versi major yang terbaru, dan terdapat penambahan banyak fiturdan optimasisasi ter..."
   },
   
   {
-    "title": "Konfigurasi General Apache+PHP-FPM",
-    "url": "/posts/Konfigurasi-General-Apache-FPM/",
-    "categories": "Blog",
-    "tags": "Apache, PHP-FPM",
-    "date": "2020-10-16 21:34:22 +0800",
+    "title": "CentOS: Membuat Basic Auth Pada HAProxy",
+    "url": "/posts/membuat-basic-auth-pada-ha/",
+    "categories": "centos, haproxy",
+    "tags": "",
+    "date": "2020-12-13 10:13:52 +0800",
     
 
 
 
 
 
-    "snippet": "Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan.Jika ditanya alasan penggunaan PHP-FPM pada apache, alasan saya sebetulnya simpel saja, “Sudah Terbiasa” dan enak juga untuk setting multiple PHP.Saya lampirkan juga artikel yang mungkin bisa..."
+    "snippet": "Pada tutorial kali ini kami akan memberikan cara sederhana bagaimana membuat authentikasi login pada halaman Frontend HAProxy menggunakan username dan password, sehingga halaman yang tampil akan menunjukan pop up authentikasi terlebih dahulu sebelum dapat diakses.Untuk mengikuti tutorial kali ini..."
   },
   
   {
-    "title": "Konfigurasi Reverse Proxy Nginx Pada Centos7",
-    "url": "/posts/Konfigurasi-Reverse-Proxy-Nginx-Pada-Centos-7/",
-    "categories": "Blog, Lab",
-    "tags": "Nginx, Centos, Reverse-proxy",
-    "date": "2020-10-16 14:46:00 +0800",
+    "title": "Docker: Pengenalan Terhadap Docker",
+    "url": "/posts/pengenalan-terhadap-docker/",
+    "categories": "ubuntu, docker, linux",
+    "tags": "",
+    "date": "2020-12-12 08:03:38 +0800",
     
 
 
 
 
 
-    "snippet": "Reverse-Proxy-with-NginxDokumentasi untuk Lab Reverse Proxy with Nginx Centos 7TaskInstalasi &amp;amp; Konfigurasi:  Apache (Port 8080)  Nginx as Reverse Proxy (Port 80)  MariaDB 10.1  PHPKetentuan:  WordPress: wordpress.domain.tld (PHP 7.2, Port 8080 + Reverse Proxy) dengan Document Root di /hom..."
+    "snippet": "Docker adalah salah satu platform yang dibangun berdasarkan teknologi container. Docker merupakan sebuah project open-source yang menyediakan platform terbuka untuk developer maupun sysadmin untuk dapat membangun, mengemas, dan menjalankan aplikasi dimanapun sebagai sebuah wadah (container) yang ..."
   },
   
   {
-    "title": "Konfigurasi General Nginx+PHP",
-    "url": "/posts/Konfigurasi-General-Nginx-PHP/",
-    "categories": "blog",
-    "tags": "nginx, php",
-    "date": "2020-10-16 11:55:42 +0800",
+    "title": "PMG: Konfigurasi Cluster Proxmox Mail Gateway",
+    "url": "/posts/konfigurasi-cluster-proxmox-mail-gateway/",
+    "categories": "proxmox-mail-gateway",
+    "tags": "",
+    "date": "2020-12-06 02:02:58 +0800",
     
 
 
 
 
 
-    "snippet": "Post ini sebetulnya untuk catatan pribadi saya (karena pelupa) supaya mudah copy-paste apabila dibutuhkan, berikut konfigurasi server block nginx yang biasa saya gunakan :server {        root /path/website;        index index.php index.html index.htm;        server_name domain.tld;        access_..."
+    "snippet": "Belajar Linux ID - Pada penjelasan sebelumnya mengenai pengenalan proxmox mail gateway terdapat fitur cluster yang dapat Anda gunakan dan diimplementasikan untuk detailnya dapat merujuk pada link berikut: Mengenal Apa itu Proxmox Mail Gateway.Pada tutorial ini tidak dibahas kembali pengertian dar..."
   },
   
   {
-    "title": "Konfigurasi SSH Key Pada Gitlab",
-    "url": "/posts/Konfigurasi-SSH-Key-Pada-Gitlab/",
-    "categories": "Blog",
-    "tags": "Git, GitLab, SSH",
-    "date": "2020-10-15 18:10:00 +0800",
+    "title": "PMG: Relay Email Plesk Panel Menggunakan Proxmox Mail Gateway",
+    "url": "/posts/relay-email-plesk-menggunakan-proxmox-mail-ga/",
+    "categories": "proxmox-mail-gateway",
+    "tags": "",
+    "date": "2020-12-05 06:09:12 +0800",
     
 
 
 
 
 
-    "snippet": "Biasanya kita akan diminta password setiap kali push ke Gitlab. Setiap kali melakukan push kita diminta mengisi username dan password yang dimana akan sangat menyebalkan jika terjadi berulang kali.Jika kita menggunakan SSH Key, kita tidak perlu lagi mengisi username dan password.Berikut langkah-l..."
+    "snippet": "Belajar Linux ID - Tutorial kali ini akan dibahas bagaimana cara memanfaatkan email relay dari proxmox mail gateway, study kasus nya disini kami sudah mempunyai Hosting Dedicated Plesk  untuk pengiriman email (outgoing) dari Dedicated Hosting Plesk tersebut nantinya akan dialihkan atau menggunaka..."
   },
   
   {
-    "title": "Integrasi S3 Menggunakan PHP-SDK",
-    "url": "/posts/Integrasi-S3-Menggunakan-PHP-SDK/",
-    "categories": "Blog, S3",
-    "tags": "PHP",
-    "date": "2020-10-14 13:17:43 +0800",
+    "title": "PMG - Instalasi SSL di Proxmox Mail Gateway",
+    "url": "/posts/instalasi-ssl-di-proxmox-mail-gateway/",
+    "categories": "proxmox-mail-gateway",
+    "tags": "",
+    "date": "2020-12-03 22:25:37 +0800",
     
 
 
 
 
 
-    "snippet": "Pada post ini saya ingin berbagi source code yang biasanya saya gunakan untuk melakukan integrasi S3 dengan PHP.Terdapat beberapa code dasar yang ingin saya bagikan yaitu:      Koneksi S3    Create Bucket    Listing Bucket    Upload Object    Delete Object    Contoh Full Code  Sebelum kita mulai ..."
+    "snippet": "Belajar Linux ID - Tutorial kali ini kami akan membahas bagaiman cara melakukan instalasi SSL di proxmox mail gateway.Secara default proxmox mail gateway menggunakan ssl self-signed dimana apabila Anda mengakses proxmox mail gateway melalui browser URL nya tidak secure contoh seperti gambar berik..."
   },
   
   {
-    "title": "Implementasi WordPress Load Balance pada layer 7",
-    "url": "/posts/Implementasi-WordPress-Load-Balance-Layer-7/",
-    "categories": "blog",
-    "tags": "Wordpress",
-    "date": "2020-10-13 21:17:00 +0800",
+    "title": "PMG: Instalasi Proxmox Mail Gateway",
+    "url": "/posts/instalasi-proxmox-mail-gateway/",
+    "categories": "proxmox-mail-gateway",
+    "tags": "",
+    "date": "2020-12-03 21:43:10 +0800",
     
 
 
 
 
 
-    "snippet": "Repositori berisi langkah konfigurasi load balancing pada WordPress khususnya pada layer 7Topology :Catatan : Sistem operasi yang digunakan pada dokumentasi ini adalah CentOS 7, apabila Anda menggunakan sistem operasi selain CentOS 7 maka diperlukan penyesuaian terlebih dahulu pada keseluruh scri..."
+    "snippet": "Belajar Linux ID - Pada tutorial kali ini kami akan menjelaskan bagaimana cara melakukan instalasi Proxmox Mail Gateway.Sebelum mengikuti panduan ini ada baiknya Anda membaca terlebih dahulu fungsi dan kegunaan dari Proxmox Mail Gateway pada link berikut: Mengenal Apa itu Proxmox Mail Gateway.Kem..."
   },
   
   {
-    "title": "cURL Looping Untuk Testing Load Balance Web Server",
-    "url": "/posts/cURL-Looping-Untuk-Testing-Load-Balance-Web-Server/",
-    "categories": "blog",
-    "tags": "bash",
-    "date": "2020-10-13 17:14:00 +0800",
+    "title": "PMG: Mengenal Apa itu Proxmox Mail Gateway",
+    "url": "/posts/mengenal-proxmox-mail-gateway/",
+    "categories": "proxmox-mail-gateway",
+    "tags": "",
+    "date": "2020-12-03 21:07:42 +0800",
     
 
 
 
 
 
-    "snippet": "Biasanya saya memanfaatkan looping menggunakan bash script untuk melakukan pengetasan, dalam hal ini yang akan dites adalah Load Balancing pada Web Server dan tool yang digunakan adalah cURL.Berikut script yang saya gunakan :for ((i=1;i&amp;lt;=3;i++)); do sleep 2; curl -i &quot;ip-address&quot;;..."
+    "snippet": "Belajar Linux ID - PMG singkatan dari Proxmox Mail Gateway, salah satu produk dari Proxmox Server Solutions GmbH.Proxmox Mail Gateway merupakan solusi keamanan email sumber terbuka (open source) terkemuka yang dapat membantu Anda melindungi server email Anda dari semua ancaman email. Arsitektur y..."
   },
   
   {
-    "title": "Percepat Alur Development Git Menggunakan Bash",
-    "url": "/posts/Percepat-Alur-Development-Git-Menggunakan-Bash/",
-    "categories": "Blog",
-    "tags": "Git, Bash",
-    "date": "2020-10-12 15:14:53 +0800",
+    "title": "Redirect Akses HTTP ke HTTPS pada Web Server Apache di Ubuntu 20.04 LTS.",
+    "url": "/posts/redirect-akses-http-ke-https/",
+    "categories": "apache, ubuntu",
+    "tags": "",
+    "date": "2020-11-28 08:28:41 +0800",
     
 
 
 
 
 
-    "snippet": "Berikut adalah script yang saya gunakan untuk mempercepat proses Add, Commit, dan Push ke repository utama :#!/bin/bashcd ~/nama-repo-lokalgit add .## add commit messageread -p &quot;Masukan Commit : &quot; commitgit commit -m &quot;$commit&quot;#push to mastergit push origin masterPenjelasan:  c..."
+    "snippet": "Jika Anda memiliki kebutuhan akses website menggunakan protokol HTTPS, maka Anda dapat melakukan instalasi sertifikat SSL terlebih dahulu pada web server Anda. Untuk menginstall sertifikat SSL pada web server Apache menggunakan sistem operasi Ubuntu 20.04 bisa mengikuti tautan berikut ini.Setelah..."
   },
   
   {
-    "title": "Belajar CI/CD Menggunakan GitLab dan Jekyll",
-    "url": "/posts/Belajar-CI-CD-Menggunakan-GitLab-dan-Jekyll/",
-    "categories": "Blog",
-    "tags": "CI-CD",
-    "date": "2020-10-11 00:00:00 +0800",
+    "title": "CentOS: Cara Install PHP 8 di CentOS 7",
+    "url": "/posts/cara-install-php-8-di-centos-7/",
+    "categories": "centos, linux, php",
+    "tags": "",
+    "date": "2020-11-28 03:33:12 +0800",
     
 
 
 
 
 
-    "snippet": "Perlu diperhatikan, sebelum dapat mengikuti langkah pada post ini, Anda perlu menyiapkan sebuah repository GitLab, VM Host, dan source theme atau website statis berbasis Jekyll.Berikut terlampir dokumentasi resmi untuk instalasi Jekyll : https://jekyllrb.com/docs/Buat Project GitLabSetelah projec..."
+    "snippet": "Belajar Linux ID - PHP sudah menjadi bahasa pemrograman yang tak asing di dengar dan bisa dibilang sangat populer dan banyak digunakan oleh para programmer web dan sebagai nya. Dikutip dari laman berita PHP per tanggal 26 November 2020 PHPresmi merilis versi PHP 8 yang dapat Anda coba versi stabi..."
   },
   
   {
-    "title": "Customize the Favicon",
-    "url": "/posts/customize-the-favicon/",
-    "categories": "Blogging, Tutorial",
-    "tags": "favicon",
-    "date": "2019-08-11 00:34:00 +0800",
+    "title": "CentOS: Cara Install PHP 8 di CentOS 8",
+    "url": "/posts/cara-install-php-8-di-centos-8/",
+    "categories": "centos, linux, php",
+    "tags": "",
+    "date": "2020-11-28 02:08:20 +0800",
     
 
 
 
 
 
-    "snippet": "The favicons of Chirpy are placed in the directory assets/img/favicons/. You may need to replace them with your own. The following sections will guide you how to create and replace the default favicons.Generate the faviconPrepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, a..."
+    "snippet": "Sebagai informasi PHP 8 telah rilis pada tanggal 26 November 2020, bagi kalian yang ingin mencoba atau menggunakan PHP 8 di Centos 8 berikut saya jelaskan langkahnya.Memasang PHP 8 Secara Independent.Apabila kalian ingin menggunakan PHP 8 sebagai default silakan ikuti langkah ini:[root@belajarphp..."
   },
   
   {
-    "title": "Getting Started",
-    "url": "/posts/getting-started/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started",
-    "date": "2019-08-09 20:55:00 +0800",
+    "title": "Linux: Cara Install dan Konfigurasi NFS Server di CentOS 8",
+    "url": "/posts/cara-install-dan-konfigurasi-nfs-server-di-centos-8/",
+    "categories": "volume, centos",
+    "tags": "",
+    "date": "2020-11-26 13:35:29 +0800",
     
 
 
 
 
 
-    "snippet": "PrerequisitesFollow the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll and Bundler.InstallationThere are two ways to get the theme:  Install from RubyGems - Easy to update, isolate irrelevant project files so you can focus on writing.  Fork on GitHub - Convenient for custom de..."
+    "snippet": "Belajar Linux ID -  NFS (Network File System) sebuah protokol file sistem terdistribusi yang memungkinkan Anda berbagi direktori baik local ataupun remote (jarak jauh) melalui jaringan. Dengan NFS, Anda dapat memasang direktori secara remote (jarak jauh) pada sistem Anda.Protokol NFS tidak dienkr..."
   },
   
   {
-    "title": "Writing a New Post",
-    "url": "/posts/write-a-new-post/",
-    "categories": "Blogging, Tutorial",
-    "tags": "writing",
-    "date": "2019-08-08 14:10:00 +0800",
+    "title": "Linux: Cara Resize Disk non LVM",
+    "url": "/posts/cara-resize-disk-non-lvm/",
+    "categories": "volume",
+    "tags": "",
+    "date": "2020-11-24 16:33:23 +0800",
     
 
 
 
 
 
-    "snippet": "Naming and PathCreate a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts/ of the root directory. Please note that the EXTENSION must be one of md and markdown.Front MatterBasically, you need to fill the Front Matter as below at the top of the post:---title: TITLEdate: YYYY-MM-DD..."
+    "snippet": "Belajar Linux ID -  Tutorial kali ini kita akan membahas bagaimana cara melakukan resize root disk non LVM  di sistem operasi Linux.Sebelum melakukan resize disk non lvm ada baiknya Anda melakukan backup/snapshot terhadap VM atau instance tujuan jika terdapat kesalahan pada saat resize maka Anda ..."
   },
   
   {
-    "title": "Text and Typography",
-    "url": "/posts/text-and-typography/",
-    "categories": "Blogging, Demo",
-    "tags": "typography",
-    "date": "2019-08-08 11:33:00 +0800",
+    "title": "CentOS: Cara Mengatur Timezone Pada CentOS 8",
+    "url": "/posts/centos-cara-mengatur-timezone-pada-centos-8/",
+    "categories": "centos",
+    "tags": "",
+    "date": "2020-11-23 10:32:12 +0800",
     
 
 
 
 
 
-    "snippet": "This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.TitlesH1 - headingH2 - headingH3 - headingH4 - headingParagraphI wandered lonely as a cloudThat floats on high o’er vales and hills,When all at o..."
+    "snippet": "Mengatur timezone atau zona waktu sangat penting pada server, terlebih lagi apabila server yang digunakan memiliki cluster karena apabila zona waktu yang digunakan tidak sinkron dengan server lainnya akan menyebabkan masalah pada server kedepannya.Pada kesempatan kali ini saya ingin berbagi Cara ..."
+  },
+  
+  {
+    "title": "Ubuntu: Install SSL Let&#39;s Encrypt untuk Apache di Ubuntu Server 20.04 TLS.",
+    "url": "/posts/install-ssl-lets-encrypt-untuk-apache/",
+    "categories": "apache, linux, ssl, ubuntu",
+    "tags": "",
+    "date": "2020-11-22 13:19:06 +0800",
+    
+
+
+
+
+
+    "snippet": "Let’s Encrypt merupakan otoritas sertifikat yang dibuat oleh Internet Security Research Group (ISRG). Let’s Encrypt menyediakan sertifikat SSL dengan proses yang lengkap seperti membuat, validasi, instalasi sampai renewal sertifikat SSL.Secara default masa aktif sertifikat SSL dari Let’s Encrypt ..."
+  },
+  
+  {
+    "title": "Linux: Membuat File Dummy",
+    "url": "/posts/linux-membuat-file-dummy/",
+    "categories": "linux, centos, ubuntu",
+    "tags": "",
+    "date": "2020-11-17 10:46:31 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Tutorial kali ini kita akan mencoba membuat file dummy. Biasanya ada waktu dimana kita membutuhkan file berukuran besar buat testing misalnya ingin melakukan speed test IO write and read dimana membutuhkan direktori atau folder atau ingin melakukan uji coba benchmark terhadap d..."
+  },
+  
+  {
+    "title": "Linux: Menggunakan Perintah Du (Disk Usage)",
+    "url": "/posts/linux-menggunakan-perintah-du/",
+    "categories": "linux, centos, ubuntu",
+    "tags": "",
+    "date": "2020-11-17 10:30:59 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Perintah du merupakan kependekan dari disk usage dimana dapat kita gunakna untuk melihat jumlah ruang disk yang digunakan oleh file atau direktori tertentu. Perintah du sangatlah praktis dan sangat berguna untuk menemukan file dan direktori yang menghabiskan banyak ruang disk.P..."
+  },
+  
+  {
+    "title": "Linux: Cek Penggunaan Disk",
+    "url": "/posts/linux-cek-penggunaan-disk/",
+    "categories": "linux",
+    "tags": "",
+    "date": "2020-11-16 10:37:49 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Pada tutorial kali ini kita akan belajar bagaimana cara melakukan pengecekan terhadap penggunaan disk melalui terminal Linux. Untuk melakukan pengecekan disk dapat menggunakan perintah df dengan perintah ini kita dapat melihat secara detail report disk usage yang digunakan.Seca..."
+  },
+  
+  {
+    "title": "Ubuntu: Melihat Penggunaan Network Usage Pada Ubuntu 20.04",
+    "url": "/posts/ubuntu-melihat-network-bandwidth-usage-pada-ubuntu-20-04/",
+    "categories": "ubuntu, linux",
+    "tags": "",
+    "date": "2020-11-16 08:18:09 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada post kali ini, saya ingin berbagi informasi tentang tool yang dapat digunakan untuk Melihat Penggunaan Network Usage Pada Ubuntu 20.04.Tool yang digunakan adalah bwm-ng atau Bandwidth Monitoring NG, tool ini bisa kita gunakan untuk melihat penggunaan network pada spesifik interface dan untuk..."
+  },
+  
+  {
+    "title": "Ubuntu: Install LAMP Stack di  Ubuntu 20.04",
+    "url": "/posts/install-lamp-stack-di-ubuntu-20-04/",
+    "categories": "apache, cloud-computing, database, linux, php, ubuntu",
+    "tags": "",
+    "date": "2020-11-15 15:12:09 +0800",
+    
+
+
+
+
+
+    "snippet": "LAMP merupakan satu paket software yang digunakan untuk mengaktifkan server guna menghosting situs web dinamis dan ditulis dalam bahasa pemrograman PHP. LAMP stack merupakan akronim dari L inux yang merupakan basis sistem operasinya, sedangkan A pache merupakan web servernya, adapun data-data web..."
+  },
+  
+  {
+    "title": "SSH: Copy File dan Folder Menggunakan SSH",
+    "url": "/posts/copy-file-dan-folder-menggunakan-ssh/",
+    "categories": "ssh, linux, centos, ubuntu",
+    "tags": "",
+    "date": "2020-11-15 08:43:14 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada post ini saya ingin berbagi informasi seputar Cara Copy File dan Folder Menggunakan SSH. Untuk tool yang akan digunakan pada post kali ini adalah SCP (Secure Copy Protocol) sehingga untuk mengikuti post ini Anda perlu memiliki akses ke terminal ataupun console untuk menjalankannya karena too..."
+  },
+  
+  {
+    "title": "Ubuntu: Instalasi Webserver Apache di Ubuntu 20.04",
+    "url": "/posts/ubuntu/",
+    "categories": "ubuntu, apache, linux",
+    "tags": "",
+    "date": "2020-11-15 06:19:25 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada kesempatan kali ini, saya ingin berbagi informasi seputar langkah konfigurasi tool pada sistem operasi Ubuntu lebih detailnya untuk Instalasi Webserver Apache di Ubuntu 20.04.Update repository pada serverLangkah pertama yang perlu dilakukan sebelum melakukan instalasi Apache pada Ubuntu adal..."
+  },
+  
+  {
+    "title": "Linux: Real Time System Statistics (Memory, CPU, Processess, etc) Menggunakan Web VMstat",
+    "url": "/posts/linux/",
+    "categories": "linux, centos",
+    "tags": "",
+    "date": "2020-11-15 02:20:07 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID -  Tutorial kali ini kita akan membahas mengenai bagaimana cara install web vmstat yaaa web vmstat sama dengan vmstat di linux perbedaannya web vmstat dapat di akses melalui browser dan public tentunya akan menampilkan grafik seperti layak nya monitoring di web stat yang akan dit..."
+  },
+  
+  {
+    "title": "Linux: Mengenal vmstat",
+    "url": "/posts/linux-mengenal-vmstat/",
+    "categories": "linux, ubuntu, centos",
+    "tags": "",
+    "date": "2020-11-15 01:39:44 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Tutorial kali ini kita akan mencoba aplikasi alternatif dari free untuk mengetahui penggunaan memori di Linux. Sebenarnya sangat banyak aplikasi yang dapat Anda pilih dan gunakan untuk melihat penggunaan ram, namun kali ini kita akan mencoba menggunakan vmstat.Di vmstat tidak h..."
+  },
+  
+  {
+    "title": "Linux: Melihat Penggunaan RAM",
+    "url": "/posts/linux-melihat-penggunaan-ram/",
+    "categories": "linux, ubuntu, centos",
+    "tags": "",
+    "date": "2020-11-15 00:41:35 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Menurut wikipedia Random-access Memory atau sering disingkat dengan RAM adalah sebuah tipe penyimpanan komputer yang isinya dapat diakses dalam waktu yang tetap tidak memperdulikan letak data tersebut dalam memori.Pengerrtian lain dari RAM adalah sebuah perangkat keras (hardwar..."
+  },
+  
+  {
+    "title": "Linux: Cara Menggunakan Curl",
+    "url": "/posts/linux-menggunakan-curl/",
+    "categories": "linux, centos, ubuntu",
+    "tags": "",
+    "date": "2020-11-14 10:59:51 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Curl adalah command-line atau utility yang tersedia di Linux. Curl sendiri singkatan dari Client URL. Biasanya curl digunakna untuk test koneksi ke URL serta dapat digunakan sebagai tool transfer data. Selain protokol HTTP, curl juga dapat digunakan pada protokol FTP, IMAP, Tel..."
+  },
+  
+  {
+    "title": "Linux: Cara Menggunakan TMUX",
+    "url": "/posts/linux-tmux/",
+    "categories": "ubuntu, centos, linux",
+    "tags": "",
+    "date": "2020-11-14 02:57:06 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Pada tutorial sebelumnya kita sudah membahas mengenai screen di Linux, sebenar nya tmux ini salah satu alternatif dari screen dan jika di komparasi screen dengan tmux tentunya memiliki kelebihan dan kekurangannya masing - masing yang dapat Anda lihat pada link berikut: tmux vs...."
+  },
+  
+  {
+    "title": "Linux: Cara Menggunakan Screen",
+    "url": "/posts/linux-cara-menggunakan-command-screen/",
+    "categories": "ubuntu, centos, linux",
+    "tags": "",
+    "date": "2020-11-11 16:29:28 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Tutorial kali ini kita akan belajar tentang screen di linux. Sebelum mengetahui tentang apa itu screen kita akan memberikan sedikit cerita kenapa harus menggunakan screen?.Sebagai seorang sysadmin mungkin Anda sudah pernah melakukan instalasi atau deployment service yang membut..."
+  },
+  
+  {
+    "title": "Openstack: Cara Rescue Instance",
+    "url": "/posts/openstack-cara-rescue-instance/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-11 07:21:41 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Pada tutorial kali ini kami akan melakukan rescue instance, tujuan dari rescue ini bila mana Anda lupa password login ke sisi instance, dengan rescue ini maka Anda dapat membuat user baru atau reset password user yang sudah ada sebelumnya.Proses rescue ini akan membutuhkan rebo..."
+  },
+  
+  {
+    "title": "Openstack: Floating IP via CLI",
+    "url": "/posts/openstack/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-07 11:05:37 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Tutorial kali ini kita akan mencoba melakukan management floating di Openstack melalui CLI.Sebelumnya kita telah membuat instance via CLI yang dapat Anda lihat pada link berikut: Openstack: Membuat Instance via CLISilakan cek list instance Anda saat ini, gunakan perintah beriku..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Instance via CLI",
+    "url": "/posts/openstack-membuat-instance-via-cli/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-07 10:39:16 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Pada tutorial kali ini kita akan membuat instance atau VM di openstack melalui CLI. Untuk mengikuti tutorial kali ini kiranya Anda sudah mengikuti tahapan - yang sudah kami lakukan sebelumnya berikut:  Openstack: Membuat Image via CLI  Openstack: Membuat Network via CLI  Openst..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Security Group via CLI",
+    "url": "/posts/openstack-membuat-security-group-via-cli/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-07 10:19:43 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID -  Tutorial kali ini kita akan mencoba membuat security group melalui CLI.Bagi Anda yang ingin membuat security group melalui horizon atau dashboard openstack dapat merujuk pada link berikut: Openstack: Menambah dan Menggunakan Security GroupMari kita lihat security group yang ki..."
+  },
+  
+  {
+    "title": "Openstack: Membuat SSH Key via CLI",
+    "url": "/posts/openstack-menambahkan-secu/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-07 10:09:57 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Pada tutorial kali ini kita akan mencoba membuat ssh key atau keypair di Openstack melalui CLI.Untuk membuat ssh key sebenarnya juga dapat melalui horizon atau dashboard openstack yang dapat Anda lihat pada link berikut: Openstack: Menambahkan SSH KeyMari kita lihat terlebih da..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Router via CLI",
+    "url": "/posts/openstack-membuat-router-via-cli/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-11-07 09:36:11 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID - Tutorial kali ini merupakan kelanjutan dari tutorial sebelumnya atau bisa di bilang sebagai series dari tutorial sebelumnya mengenai openstack.Untuk membuat router di Openstack terdapat 2 cara bisa melalui horizon dashboard atau CLI (Command Line Interface).Untuk tutorial membu..."
+  },
+  
+  {
+    "title": "SSH: Tunneling Menggunakan SSH",
+    "url": "/posts/tunneling-menggunakan-ssh/",
+    "categories": "ssh, linux, ubuntu, centos",
+    "tags": "",
+    "date": "2020-11-07 05:43:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Post kali ini saya ingin berbagi tentang Tunneling Menggunakan SSH, biasanya tunneling SSH ini digunakan apabila kita ingin mencoba melihat hasil aplikasi yang berjalan pada spesifik port yang tidak dapat diakses secara langsung dari device lokal kita.Contoh casenya, semisal terdapat aplikasi web..."
+  },
+  
+  {
+    "title": "SSH: Mempermudah Remote SSH Menggunakan SSH Config",
+    "url": "/posts/mempermudah-remote-ssh-menggunakan-ssh-config/",
+    "categories": "ssh, linux, centos, ubuntu",
+    "tags": "",
+    "date": "2020-11-07 00:47:44 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada kali ini saya ingin berbagi pengetahuan saya yaitu Mempermudah Remote SSH Menggunakan SSH Config.SSH Config adalah file konfigurasi yang biasanya diletakan pada folder ~/.ssh/config, file config ini biasanya berisi konfigurasi pintasan untuk mendefinisikan variable ataupun flag untuk command..."
+  },
+  
+  {
+    "title": "Berkontribusi Pada Proyek Sistem Operasi BlankOn",
+    "url": "/posts/berkontribusi-pada-proyek-sistem-operasi-blankon/",
+    "categories": "linux, blankon",
+    "tags": "",
+    "date": "2020-11-06 10:22:34 +0800",
+    
+
+
+
+
+
+    "snippet": "Halo teman teman penggiat open source, kali ini saya mau berbagi informasi tentang Proyek Sistem Operasi BlankOn, ini merupakan proyek open source yang bertujuan untuk mengembangkan salah satu distribusi GNU/Linux yang berisikan perangkat lunak (software) yang dapat digunakan untuk keperluan desk..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Network via CLI",
+    "url": "/posts/openstack-membuat-network-via-cli/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-30 02:02:26 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutoril kali ini kita akan mempelajari bagaimana cara membuat sebuah network baik external atau internal di openstack melalui CLI (Command line interface).Untuk membuat network di openstack bisa menggunakan 2 cara salah satunya melaui dashboard openstack atau Horizon.Tutor..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Image via CLI",
+    "url": "/posts/openstack-membuat-image-via-cli/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-30 01:44:45 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan mencoba mempelajari command line yang ada di openstack, disini kita akan memulai mencoba membuat image via CLI (Command Line Interface).Sebenarnya untuk membuat image di openstack juga dapat melalui dashboard openstack atau sering disebut Horizo..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Instance Melalui Horizon",
+    "url": "/posts/openstack-membuat-instance-melalui-horizon/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-26 16:34:41 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kami akan bahas bagaimana cara membuat instance atau VM melalui horizon. Sebelum membuat instance pastikan Anda sudah membuat router, networ serta security group atau dapat merujuk pada link berikut, untuk kebutuhan create instance nya.  Openstack: Upload..."
+  },
+  
+  {
+    "title": "Openstack: Menambah dan Menggunakan Security Group",
+    "url": "/posts/openstack-menambahkan-dan-menggunakan-security-group/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-25 20:52:36 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan membahas mengenai Security Group. Security group merupakan firewall yang ada di openstack.Untuk membuat dan menggunakan security group dapat melalui horizon atau via CLI. Disini kami akan menggunakan horizon untuk menambahkan security group, ber..."
+  },
+  
+  {
+    "title": "Openstack: Menambahkan SSH Key",
+    "url": "/posts/openstack-menambahkan-ssh-key/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-25 19:44:52 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan menambahkan SSH Key di openstack. Di openstack untuk menambahkan SSH Key dapat melalui CLI ataupun Horizon, disini kami contohkan menggunakan Horizon.Login ke Horizon &amp;gt;&amp;gt; Compute &amp;gt;&amp;gt; Key PairsTerdapat 2 pemilihan terkai..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Router",
+    "url": "/posts/openstack-membuat-router/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-25 18:40:49 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Tutorial kali ini kelanjutan dari tutorial sebelumnya mengenai cara membuat network di openstack yang dapat Anda lihat pada link berikut: Openstack: Membuat NetworkDi tutorial kali ini kita akan membuat router melalui horizon, fungsi router sendiri untuk menghubungkan network y..."
+  },
+  
+  {
+    "title": "Openstack: Membuat Network",
+    "url": "/posts/openstack-membuat-network/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-25 17:53:29 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini merupakan kelanjutan dari tutorial kami sebelumnya mengenai bagaimana cara upload image di openstack, berikut: Openstack: Upload Image atau ISODi tutorial kali ini kita akan membuat 2 jenis network yaitu network external dan network internal perbedaannya:..."
+  },
+  
+  {
+    "title": "Openstack: Upload Image atau ISO",
+    "url": "/posts/openstack-upload-image-atau-iso/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-25 17:06:29 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan membahas bagaimana cara melakukan upload image atau ISO di openstack dan tutorial kali salah satu kelanjutan dari tutorial sebelumnya mengenai instalaasi openstack di VM baik all in one atau multi node yang dapat Anda lihat pada link berikut:  O..."
+  },
+  
+  {
+    "title": "Openstack: Install Openstack Queens Multi-Node Part 3",
+    "url": "/posts/openstack-install-openstack-queens-multi-node-part-3/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-24 21:21:35 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Tutorial kali ini merupakan kelanjutkan dari part 2 sebelumnya berikut: OPENSTACK: INSTALL OPENSTACK QUEENS MULTI-NODE PART 2 dan menjadi part terakhir dalam instalasi Openstack multi node menggunakan packstack kali ini.Pada part terakhir ini kita akan membahas mengenai Post De..."
+  },
+  
+  {
+    "title": "Openstack: Install Openstack Queens Multi-Node Part 2",
+    "url": "/posts/openstack-install-openstack-queens-multi-node-part-2/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-24 20:48:23 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Tutorial kali ini merupakan lanjutan dari tutorial part 1 sebelumnya berikut: OPENSTACK: INSTALL OPENSTACK QUEENS MULTI-NODE PART 1Dimana instalasi openstack kali ini menggunakan volume sebesar 30 GB yang akan digunakan untuk:  LVM Disk: Untuk layanan Block Storage (15 GB)  XFS..."
+  },
+  
+  {
+    "title": "Openstack: Install Openstack Queens Multi-Node Part 1",
+    "url": "/posts/openstack-install-openstack-queens-multi-node-part-1/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-24 19:39:22 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan mencoba install openstack multi-node. Arti dari multi-node sendiri yaitu lebih dari 1 VM atau server yang digunakan dalam instalasi Openstack, dan pada tutorial kali ini kita akan membagi beberapa part untuk instalasi openstack nya karena tahapa..."
+  },
+  
+  {
+    "title": "Openstack: Install Openstack All-in-One with Packstack",
+    "url": "/posts/openstack-02-install-openstack-all-in-one-with-packstack/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-24 18:53:18 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Pada tutorial kali ini kita akan membahas bagaimana cara install openstack queen single node menggunakan Packstack.Packstack merupakan utilitas yang menggunakan modul puppet untuk menyebarkan berbagai layanan dari Openstack pada server secara otomatis melalui SSH. Instalasi pac..."
+  },
+  
+  {
+    "title": "Openstack: Definisi dan  Arsitektur",
+    "url": "/posts/openstack-definisi-dan-arsitektur/",
+    "categories": "openstack",
+    "tags": "",
+    "date": "2020-10-24 18:09:19 +0800",
+    
+
+
+
+
+
+    "snippet": "Belajar Linux ID – Sebelum masuk ke pembahasan inti, ada baiknya kita mengetahui terlebih dahulu singkat cerita adanya Openstack. Openstack merupakan sebuah project open source yang dikembangkan oleh Rackspace dan NASA sejakt tahun 2010. Openstack sendiri dapat digunakan untuk cloud public ataupu..."
+  },
+  
+  {
+    "title": "Cloud Computing: Jenis - Jenis Cloud",
+    "url": "/posts/jenis-jenis-cloud-computing/",
+    "categories": "cloud-computing",
+    "tags": "",
+    "date": "2020-10-03 19:28:11 +0800",
+    
+
+
+
+
+
+    "snippet": "Seperti yang kita ketahui pada tutorial sebelumnya berikut: Cloud Computing: Pengenalan Cloud Computing atau dikenal dengan komputasi awan salah satu teknologi yang memanfaatkan internet sebagai pusat server, untuk mengelola data ataupun aplikasi dari pengguna/user.Pada tutorial kali ini kita aka..."
+  },
+  
+  {
+    "title": "Cloud Computing: Pengenalan",
+    "url": "/posts/cloud-computing/",
+    "categories": "cloud-computing",
+    "tags": "",
+    "date": "2020-09-28 01:08:55 +0800",
+    
+
+
+
+
+
+    "snippet": "Sumber WikipediaCloud Computing – Di era modern ini sangat banyak beragam macam teknologi yang kian hari terknologi tersebut kian berkembang pesat, salah satu contoh teknologi Cloud Computing.Tidak semua dari kita mengerti tentang apa itu Cloud Computing bahkan masih banyak orang – orang di luar ..."
+  },
+  
+  {
+    "title": "Benchmark Disk/Volume Menggunakan FIO",
+    "url": "/posts/benchmark-disk-volume-menggunakan-fio/",
+    "categories": "centos, raid, volume",
+    "tags": "",
+    "date": "2020-09-27 22:03:50 +0800",
+    
+
+
+
+
+
+    "snippet": "Dalam sebuah disk kita akan menemukan istilah read dan write dimana proses read dan write ini sangat penting di ketahui seberapa cepat proses read dan write pada disk tersebut, terlebih jika kita menjalankan sebuah service yang membutuhkan read dan write yang sangat tinggi misalnya database dan m..."
+  },
+  
+  {
+    "title": "Mounting Volume non-LVM di CentOS 8",
+    "url": "/posts/mounting-volume-non-lvm-di-centos-8/",
+    "categories": "centos, volume",
+    "tags": "",
+    "date": "2020-09-13 16:28:34 +0800",
+    
+
+
+
+
+
+    "snippet": "Tutorial kali ini kita akan mencoba bagaimana cara melakukan mounting sebuah volume atau bisa dikatakan sebagai disk atau drive tambahan pada instance atau VM atau VPS.OS yang kami gunakan yaitu CentOS 8 non-LVM dimana untuk volume tambahan nantinya tidak kami mounting sebagai root melainkan dire..."
+  },
+  
+  {
+    "title": "Membuat RAID di CentOS 8",
+    "url": "/posts/membuat-raid-di-centos-8/",
+    "categories": "centos, raid",
+    "tags": "",
+    "date": "2020-09-12 21:47:15 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada tutorial sebelumnya, kita sudah belajar mengenai RAID berikut: Belajar RAIDDan pada tutorial kali ini kita akan mencoba bagaimana cara membuat RAID yang sudah kita pelajari sebelumnya. Untuk membuat RAID bisa menggunakan service mdadm oleh karena itu kita perlu install terlebih dahulu mdadm ..."
+  },
+  
+  {
+    "title": "Belajar RAID",
+    "url": "/posts/belajar-raid/",
+    "categories": "centos, raid",
+    "tags": "",
+    "date": "2020-09-11 23:51:59 +0800",
+    
+
+
+
+
+
+    "snippet": "Mengenal RAIDRAID adalah teknologi yang digunakan untuk meningkatkan kinerja dan / keandalan (reability) dari sebuah penyimpanan data (storage). RAID singkatan dari Redundant Array of Independent Drives atau _Redundant Array of Inexpensive Disk_s. Sistem RAID terdiri dari dua atau lebih drive (st..."
+  },
+  
+  {
+    "title": "Cara Mengelola Mail Server iRedMail",
+    "url": "/posts/cara-mengelola-mail-server-iredmail/",
+    "categories": "centos, mail-server",
+    "tags": "",
+    "date": "2020-09-10 07:59:54 +0800",
+    
+
+
+
+
+
+    "snippet": "Tutorial kali ini salah satu lanjutan dari tutorial kami sebelumnya mengenai mail server berikut:_**1. Membuat Mail Server Menggunakan iRedMail di CentOS 8  Cara Install SSL Let’s Encrypt di iRedMail  Enable SMTPS service (SMTP over SSL) di iRedMail  Menambahkan DNS Record Mail Server iRedMail**_..."
+  },
+  
+  {
+    "title": "Menambahkan DNS Record Mail Server iRedMail",
+    "url": "/posts/menambahkan-dns-record-mail-server-iredmail/",
+    "categories": "centos, dns, mail-server",
+    "tags": "",
+    "date": "2020-09-10 06:59:19 +0800",
+    
+
+
+
+
+
+    "snippet": "iRedMail sebuah mail server yang bersifat open source, dengan iRedMail Anda dapat dapat membangun mail server sendiri di VPS atau VM. Namun untuk mempunyai email server kita butuh yang namanya DNS Record untuk mail server.DNS Record apa saja yang dibutuhkan untuk membangun mail server?.Sebelum me..."
+  },
+  
+  {
+    "title": "Enable SMTPS service (SMTP over SSL) di iRedMail",
+    "url": "/posts/enable-smtps-service-smtp-over-ssl-di-iredmail/",
+    "categories": "centos, mail-server",
+    "tags": "",
+    "date": "2020-09-09 20:51:23 +0800",
+    
+
+
+
+
+
+    "snippet": "Send Mail Transfer Protokol atau sering disebut dengan SMTP secara default untuk SMPT sudah enable di iRedMail namun untuk SMTPS secara default di disable dengan alasan deprecated sesuai informasi dari wikipedia.org  Originally, in early 1997, the Internet Assigned Numbers Authority registered 46..."
+  },
+  
+  {
+    "title": "Cara Install SSL Let&#39;s Encrypt di iRedMail",
+    "url": "/posts/cara-install-ssl-lets-encrypt-di-iredmail/",
+    "categories": "centos, mail-server, ssl",
+    "tags": "",
+    "date": "2020-09-09 20:30:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Secure Socket Layer (SSL) tidak hanya digunakan untuk secure untuk website saja, mail server juga perlu SSL tentunya sebagai koneksi antara client dan server dapat berjalan secara aman dari pihak lain, dengan SSL maka komunikasi client dengan server mail kita lebih secure atau kata lainnya terenk..."
+  },
+  
+  {
+    "title": "Membuat Mail Server Menggunakan iRedMail di CentOS 8",
+    "url": "/posts/membuat-mail-server-menggunakan-iredmail-di-centos-8/",
+    "categories": "centos, mail-server",
+    "tags": "",
+    "date": "2020-09-08 19:51:14 +0800",
+    
+
+
+
+
+
+    "snippet": "iRedMail salah satu solusi yang tepat bagi Anda yang ingin membangun sebuah mail server dengan instan, mudah, dan powerfull tentunya. iRedmail merupakan aplikasi mail server (Collaboration Suite) yang bersifat open source (free/bebas) namun ada juga yang versi berbayar.iRedmail dapat diinstall di..."
+  },
+  
+  {
+    "title": "Pengertian Mail Server",
+    "url": "/posts/pengertian-mail-server/",
+    "categories": "centos, mail-server",
+    "tags": "",
+    "date": "2020-09-08 19:12:13 +0800",
+    
+
+
+
+
+
+    "snippet": "Tutorial kali ini kami tidak akan membahas tentang teknikal melainkan tentang teori atau pengertian tentang apa sih itu Mail Server.Mungkin diluar sana sudah banyak yang membahas tentang mail server, dan kali ini kami akan mencoba mengulas sedikit tentang mail server dan apa saja yang dibutuhkan ..."
+  },
+  
+  {
+    "title": "High Availability PostgreSQL Cluster Menggunakan Patroni dan HAProxy",
+    "url": "/posts/high-availability-postgresql-cluster-menggunakan-patroni-dan-haproxy/",
+    "categories": "centos, database, load-balancer",
+    "tags": "",
+    "date": "2020-09-07 22:03:38 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada tutorial kali ini kita akan mencoba membuat high availabiliy postgresql, seperti yang telah diinformasikan pada tutorial – tutorial sebelumnya postgresql sendiri sebuah database server open source yang dapat digunakan karena postgresql sangat power full.Kali ini kita akan membuat cluster pos..."
+  },
+  
+  {
+    "title": "Cara Konfigurasi PostgreSQL 12 Replika Streaming di CentOS 8",
+    "url": "/posts/cara-konfigurasi-postgresql-12-replika-streaming-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-09-07 20:03:38 +0800",
+    
+
+
+
+
+
+    "snippet": "PostgreSQL salah satu databate yang power full yang dapat Anda gunakan sebagai pilihan yang tepat untuk database server.PostgreSQL mempunyai beberapa solusi replikasi untuk support dan bangun aplikasi yang high-availability, scalable, fault-tolerant application, dan salah satunya Write Ahead Log ..."
+  },
+  
+  {
+    "title": "Cara Install pgAdmin4 di CentOS 8",
+    "url": "/posts/cara-install-pgadmin4-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-09-06 04:12:56 +0800",
+    
+
+
+
+
+
+    "snippet": "pgAdmin adalah sebuah proyek open source yang dapat digunakan secara gtratis yang dirilis dibawah lisensi PostgreSQL/Artistic licence. pgAdmin dapat Anda gunakan untuk pengelolaan database postgresql, pgadmin layaknya phpmyadmin jika di database mariadb atau mysql.pgAdmin dapat diinstall di berba..."
+  },
+  
+  {
+    "title": "Cara Install PostgreSQL di CentOS 8",
+    "url": "/posts/cara-install-postgresql-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-09-05 01:55:56 +0800",
+    
+
+
+
+
+
+    "snippet": "PostgreSQL, biasa di singkat dengan kata postgres merupakan sistem manajemen basis data relasional yang open-source (databases) yang dapat menekankan ekstensibilitas dan kepatuhan SQL. Awalnya bernama POSTGRES, merujuk pada asalnya sebagai penerus basis data Ingres yang dikembangkan di University..."
+  },
+  
+  {
+    "title": "Cara Install Let&#39;s Encrypt pada HAProxy di CentOS 8",
+    "url": "/posts/cara-install-lets-encrypt-pada-haproxy-di-centos-8/",
+    "categories": "centos, haproxy, ssl",
+    "tags": "",
+    "date": "2020-09-04 03:13:49 +0800",
+    
+
+
+
+
+
+    "snippet": "Letsencrypt salah satu SSL (Secure Sockets Layer) free yang dapat Anda gunakan Letsencrypt dapat Anda install di berbagai sistem operasi, dan web server. Untuk instalasi letsencrypt dapat menggunakan CertbotSebelum melakukan instalasi certbot kita perlu install epel repository terlebih dahulu sep..."
+  },
+  
+  {
+    "title": "[SOLVED] MariaDB Galera Cluster not starting (failed to open channel)",
+    "url": "/posts/solved-mariadb-galera-cluster-not-starting-failed-to-open-channel/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-09-03 22:29:54 +0800",
+    
+
+
+
+
+
+    "snippet": "Sebelumnya kami mencoba untuk memastikan semua node galera cluster dan di sisi proxy MariaDB MaxScale terindikasi down semua seperti berikutSelanjutnyaa kami mencoba untuk start manual semua node galera cluster akan tetapi node tidak dapat di start[root@galera01 ~]#[root@galera01 ~]# systemctl st..."
+  },
+  
+  {
+    "title": "Membuat Authentikasi dan Custom Port HAProxy di CentOS 8",
+    "url": "/posts/membuat-authentikasi-dan-custom-port-haproxy-di-centos-8/",
+    "categories": "centos, haproxy",
+    "tags": "",
+    "date": "2020-09-02 23:00:06 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada tutorial kali ini kami akan memberikan cara sederhana bagaimana membuat authentikasi login ke HAProxy menggunakan username dan password selain itu untuk login ke HAProxy nantinya kita akan mencoba custom menggunakan port tujuan utama nya supaya lebih secure dan hanya Anda yang mengetahui URL..."
+  },
+  
+  {
+    "title": "WordPress High Availability Menggunakan Haproxy di CentOS 8",
+    "url": "/posts/wordpress-high-availability-menggunakan-haproxy-di-centos-8/",
+    "categories": "centos, cms, database, haproxy, load-balancer, nginx",
+    "tags": "",
+    "date": "2020-09-02 21:58:23 +0800",
+    
+
+
+
+
+
+    "snippet": "WordPress salah satu CMS yang paling sering dan banyak digunakan untuk website, baik untuk website pribadi ataupun korporasi.Pada tutorial kali ini kami akan mencoba mengkombinasikan WordPress dengan beberapa teknologi proxy dan load balancing, tujuannya untuk menciptakan high availability WordPr..."
+  },
+  
+  {
+    "title": "Membuat Koneksi PHP ke MariaDB MaxScale",
+    "url": "/posts/membuat-koneksi-php-ke-mariadb-maxscale/",
+    "categories": "centos, cms, database, load-balancer, php",
+    "tags": "",
+    "date": "2020-09-01 21:24:52 +0800",
+    
+
+
+
+
+
+    "snippet": "Saat ini sangat banyak bahasa pemrograman yang dapat digunakan untuk membuat sebuah website statis ataupun dinamis dan salah satu pemrograman yang paling populer bahkan bisa dibilang bahas pemrograman yang paling banyak digunakan untuk membuat sebuah website yaitu bahasa pemoragraman PHP.PHP sing..."
+  },
+  
+  {
+    "title": "Memanfaatkan MariaDB MaxScale Sebagai Load Balancing Untuk Galera Cluster pada CentOS 8",
+    "url": "/posts/memanfaatkan-mariadb-maxscale-sebagai-load-balancing-untuk-galera-cluster-pada-centos-8/",
+    "categories": "centos, database, galera-cluster, load-balancer",
+    "tags": "",
+    "date": "2020-08-31 23:43:20 +0800",
+    
+
+
+
+
+
+    "snippet": "MariaDB adalah sistem manajemen database relasional yang dikembangkan dari MySQL. MariaDB dikembangkan oleh komunitas pengembang yang sebelumnya berkontribusi untuk database MySQL.MariaDB saat ini telah mempunyai MaxScale salah satu produk open source dibawah Business Source License (BSL). Mariad..."
+  },
+  
+  {
+    "title": "Cara Instalasi dan Konfigurasi MariaDB Galera Cluster di CentOS 8",
+    "url": "/posts/cara-instalasi-dan-konfigurasi-mariadb-galera-cluster-di-centos-8/",
+    "categories": "centos, database, galera-cluster",
+    "tags": "",
+    "date": "2020-08-31 20:38:13 +0800",
+    
+
+
+
+
+
+    "snippet": "MariaDB Galera Cluster adalah salah satu DBMS (Database Management system) yang open source artinya dapat digunakan secara bebas dan tentunya sangat populer serta mempunyai mekanisme replikasi.MariaDB Galera Cluster salah satu tipe cluster synchronous multi-master untuk MariaDB dan hanya tersedia..."
+  },
+  
+  {
+    "title": "Cara Konfigurasi Replikasi MariaDB Master - Slave di CentOS 8",
+    "url": "/posts/cara-konfigurasi-replikasi-mariadb-master-slave-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-30 21:02:23 +0800",
+    
+
+
+
+
+
+    "snippet": "MariaDB adalah sistem manajemen database relasional yang bersifat open source artinya dapat Anda gunakan secara bebas untuk kebutuhan database server.Replikasi adalah fitur yang ada di MariaDB yang memungkinkan data di satu server di replikasi ke server yang lainnya. Ada beberapa jenis replikasi ..."
+  },
+  
+  {
+    "title": "Cara Konfigurasi Replikasi MariaDB Master - Master di CentOS 8",
+    "url": "/posts/cara-konfigurasi-replikasi-mariadb-master-master-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-30 04:52:33 +0800",
+    
+
+
+
+
+
+    "snippet": "MariaDB adalah sistem manajemen database relasional yang dikembangkan dari MySQL. MariaDB dikembangkan oleh komunitas pengembang yang sebelumnya berkontribusi untuk database MySQL.Di MariaDB terdapat beberapa macam metode replikasi yang dapat digunakan dan yang paling familiar yaitu replikasi dat..."
+  },
+  
+  {
+    "title": "Cara Instalasi dan Menggunakan Lsyncd di CentOS 8",
+    "url": "/posts/cara-instalasi-dan-menggunakan-lsyncd-di-centos-8/",
+    "categories": "centos, linux",
+    "tags": "",
+    "date": "2020-08-29 20:16:56 +0800",
+    
+
+
+
+
+
+    "snippet": "Lsyncd singkatan dari “Live Syncing Daemon”, sebuah service yang digunakan untuk sinkronisasi atau mereplikasi file dan direktori secara lokal dan remote sesuai waktu tertentu menggunakan rsync dan ssh di backend untuk authentication.Lsyncd bekerja pada arsitektur Master dan Slave di mana ia mema..."
+  },
+  
+  {
+    "title": "Cara Menggunakan Load Balancer Nginx di CentOS 8",
+    "url": "/posts/cara-menggunakan-load-balancer-nginx-di-centos-8/",
+    "categories": "centos, load-balancer, nginx",
+    "tags": "",
+    "date": "2020-08-28 23:37:55 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada kesempatan sebelumnya kita pernah membahas tentang Nginx Reverse Proxy dimana salah satu keuntungannya dapat menggunakan Load Balacing detailnya dapat di lihat pada link berikut: Memahami Cara Kerja Nginx Reverse ProxyWeb server Nginx mungkin bisa dibilang sebagai web server yang multi guna,..."
+  },
+  
+  {
+    "title": "Implementasi Cache Proxy Nginx pada WordPress di CentOS 8",
+    "url": "/posts/implementasi-cache-proxy-nginx-pada-wordpress-di-centos-8/",
+    "categories": "centos, cms, nginx",
+    "tags": "",
+    "date": "2020-08-27 23:25:19 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada tutorial kali ini kami akan memberikan cara bagaimana mempercepat website WordPress Anda dengan menggunakan proxy cache Nginx.Untuk mengikuti tutorial ini pastikan Anda sudah instalasi WordPress disini kami juga sudah memasang SSL untuk WordPress atau Anda dapat mengikuti referensi berikut: ..."
+  },
+  
+  {
+    "title": "Cara Reset Password WordPress Melalui MariaDB di CentOS 8",
+    "url": "/posts/cara-reset-password-wordpress-melalui-mariadb-di-centos-8/",
+    "categories": "centos, cms, database",
+    "tags": "",
+    "date": "2020-08-27 13:37:41 +0800",
+    
+
+
+
+
+
+    "snippet": "Sebagai manusia kita pasti akan pernah lupa dan hal ini sudah wajar karena manusia tidak ada yang sempurna. Jika Anda mempunyai WordPress yang diinstall menggunakan mariadb server dan Anda lupa akan password login ke WP Admin WordPress Anda, janganlah khawatir karena password WP dapat Anda reset ..."
+  },
+  
+  {
+    "title": "Cara Enable Gzip Compression pada Nginx di CentOS 8",
+    "url": "/posts/cara-enable-gzip-compression-pada-nginx-di-centos-8/",
+    "categories": "centos, linux, nginx",
+    "tags": "",
+    "date": "2020-08-27 13:17:49 +0800",
+    
+
+
+
+
+
+    "snippet": "Gzip compression salah satu cara yang dapat kita gunakan untuk mengoptimalisasi website dynamic ataupun static.Misalnya Anda menggunakan CMS WordPress untuk kebutuhan website Anda tentunya di CMS WordPress banyak sekali file – file html, css, javascript baik dari themes dan plugin dari CMS WordPr..."
+  },
+  
+  {
+    "title": "Cara Instalasi SSL + Proxy CloudFlare di Nginx pada CentOS 8",
+    "url": "/posts/cara-instalasi-ssl-proxy-cloudflare-di-nginx-pada-centos-8/",
+    "categories": "centos, nginx, ssl",
+    "tags": "",
+    "date": "2020-08-26 23:15:38 +0800",
+    
+
+
+
+
+
+    "snippet": "Menurut Wikipedia Cloudflare, Inc. adalah perusahaan infrastruktur web dan keamanan situs web yang menyediakan layanan CDN (content-delivery-network), DDoS mitigation, Internet security, dan DNS managemen(domain-name-server).Cloudflare juga dapat digunakan sebagai proxy server (sebagai perantara)..."
+  },
+  
+  {
+    "title": "Cara Instalasi SSL Letsencrypt pada WordPress Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-ssl-letsencrypt-pada-wordpress-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, ssl",
+    "tags": "",
+    "date": "2020-08-26 15:19:21 +0800",
+    
+
+
+
+
+
+    "snippet": "Tutorial kali ini hampir sama dengan tutorial sebelum terkait instalasi SSL free di Laravel dimana Anda perlu install terlebih dahulu certbot dan membuat konfigurasi SSL yang akan disimpan di direktori snippets sebagai berikutInstalasi certbot[root@tutorial ~]#[root@tutorial ~]# wget -P /usr/loca..."
+  },
+  
+  {
+    "title": "Cara Instalasi SSL Letsencrypt pada Laravel Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-ssl-letsencrypt-pada-laravel-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, ssl",
+    "tags": "",
+    "date": "2020-08-26 14:15:44 +0800",
+    
+
+
+
+
+
+    "snippet": "Letsencrypt salah satu SSL (Secure Sockets Layer) free yang dapat Anda gunakan Letsencrypt dapat Anda install di berbagai sistem operasi, dan web server. Untuk instalasi letsencrypt dapat menggunakan CertbotBerikut ini kami akan mencoba memasang SSL Free di Laravel oleh karena itu pastikan Anda s..."
+  },
+  
+  {
+    "title": "Cara Instalasi Moodle Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-moodle-di-centos-8/",
+    "categories": "centos, cms, framework",
+    "tags": "",
+    "date": "2020-08-26 12:14:12 +0800",
+    
+
+
+
+
+
+    "snippet": "Moodle salah satu platform yang biasa digunakan untuk membangun Learning Management System (LMS), moodle cukup power full dan bahkan saat ini sangat banyak institusi pendidikan yang menggunakan moodle sebagai platform belajar mengajar secara daring.Moodle sendiri open source artinya Anda dapat de..."
+  },
+  
+  {
+    "title": "Cara Instalasi CodeIgniter Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-codeigniter-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, framework",
+    "tags": "",
+    "date": "2020-08-25 23:16:42 +0800",
+    
+
+
+
+
+
+    "snippet": "CodeIgniter merupakan sebuah framework yang dapat Anda gunakan secara bebas karena framework ini open source. CodeIgniter dapat Anda gunakan untuk membangun aplikasi web berbasis PHP.CodeIgniter sudah banyak digunakan oleh para pengembang dan web developer untuk membangun website yang powerfull t..."
+  },
+  
+  {
+    "title": "Cara Instalasi Laravel Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-laravel-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, framework",
+    "tags": "",
+    "date": "2020-08-25 20:34:52 +0800",
+    
+
+
+
+
+
+    "snippet": "Laravel merupakan salah satu framework PHP yang sangat populer dan bisa di bilang terbaik. Sudah sangat banyak para web developer menggunakan framework ini. Laravel sendiri open source dimana Anda dapat menggunakannya secara bebas.Laravel sendiri mempunyai komunitas yang sangat besar, oleh karena..."
+  },
+  
+  {
+    "title": "Cara Instalasi Typo3 Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-typo3-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, cms",
+    "tags": "",
+    "date": "2020-08-25 15:20:05 +0800",
+    
+
+
+
+
+
+    "snippet": "TYPO3 salah satu dari sekian banyak CMS (content management system) yang dapat Anda gunakan secara free dalam artian open source (bebas) di kembangkan, di kustomisasi. TYPO3 hampir sama dengan Drupal dirilis dibawah naungan GNU General Public License.TYPO3 ditulis menggunakan PHP dan dapat berjal..."
+  },
+  
+  {
+    "title": "Cara Instalasi Drupal Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-drupal-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, cms",
+    "tags": "",
+    "date": "2020-08-25 14:54:53 +0800",
+    
+
+
+
+
+
+    "snippet": "Drupalsalah satu dari sekian banyak nya CMS (content management system) yang open source (bebas) digunakan, dikembangkan dan di customisasi sesuai kebutuhan. Drupal di tulis menggunakan PHP dan didistribusikan di bawah GNU General Public License.Drupaldapat digunakan untuk perbagai jenis kebutuha..."
+  },
+  
+  {
+    "title": "Cara Instalasi Prestashop Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-prestashop-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, cms",
+    "tags": "",
+    "date": "2020-08-24 22:01:54 +0800",
+    
+
+
+
+
+
+    "snippet": "Prestashop adalah sebuah CMS yang diperuntukan untuk e-commerce, prestashop sendiri open source (bebas) dalam artian semua orang dapat menggunakan, mengembangkan dan berpartisipasi sehingga CMS ini tetap up to date.Prestashop sudah menyediakan berbagai macam themes dan addons yang dapat Anda guna..."
+  },
+  
+  {
+    "title": "Cara Instalasi Joomla Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-joomla-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, cms",
+    "tags": "",
+    "date": "2020-08-24 19:33:31 +0800",
+    
+
+
+
+
+
+    "snippet": "Joomla merupakan sebuah CMS (content management system) yang open source (bebas) digunakan untuk kebutuhan website baik untuk pribadi, company profile dan masih banyak lagi lainnya karena joomla sudah mempunyai ribuan extensi dan tema yang dapat Anda gunakan secara free.Ratusan pengembang telah m..."
+  },
+  
+  {
+    "title": "Cara Instalasi WordPress menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-wordpress-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, cms",
+    "tags": "",
+    "date": "2020-08-24 15:08:01 +0800",
+    
+
+
+
+
+
+    "snippet": "CMS WordPress salah satu CMS yang open source ditulis menggunakan PHP dan bisa dibilang CMS yang multiguna karena dapat digunakan di berbagai jenis contohnya bisa digunakan sebagai website e-commerce, blog pribadi, company dan masih banyak lainnya.Untuk system requirements WordPress dapat Anda li..."
+  },
+  
+  {
+    "title": "Komunikasi Nginx dan PHP-FPM Menggunakan Unix atau TCP/IP Socket",
+    "url": "/posts/komunikasi-nginx-dan-php-fpm-menggunakan-unix-atau-tcp-ip-socket/",
+    "categories": "centos, nginx, php",
+    "tags": "",
+    "date": "2020-08-24 14:12:15 +0800",
+    
+
+
+
+
+
+    "snippet": "Seperti yang sudah dibahas pada tutorial – tutorial sebelumnya, web server Nginx dapat digunakan sebagai reverse proxy dan Nginx dapat melayani aplikasi PHP melalui protokol FastCGI (sebagai server backend).Terdapat 2 cara komunikasi antara Nginx dengan PHP-FPM diantaranya  Menggunakan Unix Socke..."
+  },
+  
+  {
+    "title": "Cara Membuat dan Menghapus User di CentOS 8",
+    "url": "/posts/cara-membuat-dan-menghapus-user-di-centos-8/",
+    "categories": "centos, linux",
+    "tags": "",
+    "date": "2020-08-24 09:28:45 +0800",
+    
+
+
+
+
+
+    "snippet": "CentOS dan semua distribusi Linux lainnya adalah sistem operasi multi-pengguna. Setiap pengguna dapat memliki tingkat izin yang berbeda – beda dan pengaturan khusus baik di CLI ataupun GUI.User juga dapat digunakan untuk menyimpan data – data website misalnya Anda mempunyai 2 CMS yang berjalan se..."
+  },
+  
+  {
+    "title": "Cara Konfigurasi Nginx Reverse Proxy (Standalone)",
+    "url": "/posts/cara-konfigurasi-nginx-reverse-proxy-standalone/",
+    "categories": "apache, centos, nginx",
+    "tags": "",
+    "date": "2020-08-23 21:53:38 +0800",
+    
+
+
+
+
+
+    "snippet": "Pada tutorial sebelumnya kita sudah membahas tentang pengertian, cara kerja, fungsi dan keuntungan jika menggunakan Nginx Reverse Proxy berikut: Memahami Cara Kerja Nginx Reverse ProxyUntuk mengikuti tutorial ini pastikan Anda sudah mengikuti tutorial berikut, karena pada tutorial kali ini akan d..."
+  },
+  
+  {
+    "title": "Memahami Cara Kerja Nginx Reverse Proxy",
+    "url": "/posts/memahami-cara-kerja-nginx-reverse-proxy/",
+    "categories": "apache, centos, nginx",
+    "tags": "",
+    "date": "2020-08-23 20:23:13 +0800",
+    
+
+
+
+
+
+    "snippet": "# Mengenal Reverse ProxyKalimat _ Reverse Proxy _ mungkin sudah tidak asing lagi terdengar khususnya orang yang menggeluti dunia web server.Mari kita bahas tentang apa sih itu reverse proxy?.Sebelum kita lanjut ke pembahasan reverse proxy ada kalanya kita tahu terlebih dahulu tentang Server Proxy..."
+  },
+  
+  {
+    "title": "Cara Mengubah Port Database MariaDB di CentOS 8",
+    "url": "/posts/cara-mengubah-port-database-mariadb-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-23 11:17:48 +0800",
+    
+
+
+
+
+
+    "snippet": "Seperti yang kita ketahui bersama port database secara default berjalan di port 3306 jika kita allow remote akses ke public tentunya kita perlu ekspost port tersebut ke public dan hal ini sangat riskan dari segi security.Dengan demikian jika Anda ingin allow remote connection database dari public..."
+  },
+  
+  {
+    "title": "Cara Remote Database MariaDB di CentOS 8",
+    "url": "/posts/cara-remote-database-mariadb-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-23 10:52:29 +0800",
+    
+
+
+
+
+
+    "snippet": "Melakukan remote atau akses database server dari public dari public tentu bukanlah hal yang asing bagi Anda yang bergelut di dunia SysAdmin ataupun Programmer baik untuk kebutuhan website dan yang lainnya.Dengan mengakses database dari public menggunakan aplikasi database client akan mempermudah ..."
+  },
+  
+  {
+    "title": "Cara Instalasi phpMyAdmin Menggunakan Nginx di CentOS 8",
+    "url": "/posts/cara-instalasi-phpmyadmin-menggunakan-nginx-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-22 19:22:36 +0800",
+    
+
+
+
+
+
+    "snippet": "phpMyAdmin salah satu aplikasi open source (bebas) yang dapat Anda gunakan untuk mengelola database server MariaDB atau MySQL melalui web base. phpMyAdmin ditulis menggunakan PHP.Dengan phpMyAdmin Anda dapat dengan mudah melakukan dan membuat database, tables, columns, relations, indexes, useres,..."
+  },
+  
+  {
+    "title": "Cara Reset Password Root MariaDB/MySQL di CentOS 8",
+    "url": "/posts/cara-reset-password-root-mariadb-mysql-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-22 14:04:42 +0800",
+    
+
+
+
+
+
+    "snippet": "Sebagai manusia yang tidak luput dari kesempurnaan ini pasti kita akan mengalami yang namanya LUPA , ya lupa memang menjadi hal yang tidak diinginkan semua orang.Jika Anda lupa password pada MariaDB atau MySQL Anda dapat mengikuti tutorial ini.Untuk mengikuti tutorial ini pastikan Anda sudah mela..."
+  },
+  
+  {
+    "title": "Cara Instalasi Database MySQL di CentOS 8",
+    "url": "/posts/cara-instalasi-database-mysql-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-22 11:34:08 +0800",
+    
+
+
+
+
+
+    "snippet": "MySQL adalah Sebuah program database server yang mampu menerima dan mengirimkandatanya sangat cepat, multi user serta menggunakan peintah dasar SQL (Structured Query Language).MySQL merupakan dua bentuk lisensi, yaitu free Software dan Shareware. MySQL yang biasa kita gunakan adalah MySQL Free So..."
+  },
+  
+  {
+    "title": "Cara Instalasi Database MariaDB di CentOS 8",
+    "url": "/posts/cara-instalasi-database-mariadb-di-centos-8/",
+    "categories": "centos, database",
+    "tags": "",
+    "date": "2020-08-22 07:24:02 +0800",
+    
+
+
+
+
+
+    "snippet": "MariaDB adalah sistem manajemen database relasional yang dikembangkan dari MySQL. MariaDB dikembangkan oleh komunitas pengembang yang sebelumnya berkontribusi untuk database MySQL.Mengapa pengembang MySQL membangun MariaDB? Salah satu alasannya, MySQL telah diakuisisi oleh Oracle sehingga menyeba..."
+  },
+  
+  {
+    "title": "Cara Menjalankan Apache dan Nginx Secara Bersama di CentOS 8",
+    "url": "/posts/cara-menjalankan-apache-dan-nginx-secara-bersama-di-centos-8/",
+    "categories": "apache, centos, nginx",
+    "tags": "",
+    "date": "2020-08-22 06:49:47 +0800",
+    
+
+
+
+
+
+    "snippet": "Apache dan Nginx sama – sama Web Server dimana ke dua service tersebut berjalan di port 80. Lalu bagaimana cara menjalankan ke dua web server tersebut secara bersamaan?.Untuk menjalankan ke dua web server tersebut dapat di lakukan dengan cara mengubah salah satu port dari web server misalnya ngin..."
+  },
+  
+  {
+    "title": "Cara Membuat Virtual Host Apache di CentOS 8",
+    "url": "/posts/cara-membuat-virtual-host-apache-di-centos-8/",
+    "categories": "apache, centos",
+    "tags": "",
+    "date": "2020-08-21 19:06:13 +0800",
+    
+
+
+
+
+
+    "snippet": "Apache salah satu web server yang banyak digunakan karena kecepatan dan yang lainnya. Layaknya di nginx jika kita ingin menjalankan lebih dari satu domain atau sub domain di apache Anda dapat menggunakan virtual host atau sering dibilang vhost.Dengan vhost Anda dapat meng hosting banyak domain at..."
+  },
+  
+  {
+    "title": "Struktur Konfigurasi dan Perintah Dasar Apache di CentOS 8",
+    "url": "/posts/struktur-konfigurasi-dan-perintah-dasar-apache-di-centos-8/",
+    "categories": "apache, centos",
+    "tags": "",
+    "date": "2020-08-21 15:02:19 +0800",
+    
+
+
+
+
+
+    "snippet": "Seperti yang sudah kita bahas sebelumnya di web server nginx berikut: Struktur Konfigurasi dan Perintah Dasar Nginx, apache sebagai web server juga mempunya struktur konfigurasi dan perintah – perintah nya tersendiri.Dengan memahmi struktur konfigurasi dan perintah dasar, Anda dapat dengan mudah ..."
+  },
+  
+  {
+    "title": "Cara Instalasi Apache di CentOS 8",
+    "url": "/posts/cara-instalasi-apache-di-centos-8/",
+    "categories": "apache, centos",
+    "tags": "",
+    "date": "2020-08-21 14:42:13 +0800",
+    
+
+
+
+
+
+    "snippet": "Apache merupakan web server yang dapat dijalankan di berbagai macam sistem operasi yang berbeda seperti Unix, BSD, Linux, Windows dan Novell Netware yang bertugas untuk melayani fasilitas web dengan menggunakan protokol http ataupun https. Apache bersifat open source, yang artinya dapat digunakan..."
+  },
+  
+  {
+    "title": "Struktur Konfigurasi dan Perintah Dasar Nginx di CentOS 8",
+    "url": "/posts/struktur-konfigurasi-dan-perintah-dasar-nginx/",
+    "categories": "centos, nginx",
+    "tags": "",
+    "date": "2020-08-21 14:18:41 +0800",
+    
+
+
+
+
+
+    "snippet": "Memahami struktur konfigurasi sebuah service sangat dibutuhkan dengan kita paham struktur nya, maka akan mempermudah kita dalam penggunaannya. Selain itu kita perlu mengetahui juga dasar – dasar perintah dari service tersebut dengan kita tahu dasar nya, akan mempermudah kita dalam pengelolaannya...."
+  },
+  
+  {
+    "title": "Cara Instalasi PHP 7 di CentOS 8",
+    "url": "/posts/cara-instalasi-php-7-di-centos-8/",
+    "categories": "centos, linux, php",
+    "tags": "",
+    "date": "2020-08-21 08:53:50 +0800",
+    
+
+
+
+
+
+    "snippet": "PHP adalah salah satu bahasa pemrograman yang paling banyak digunakan. Banyak CMS dan Frameworks seperti WordPress, Magento, dan lavarel dibangun menggunakan PHP.CentOS 8 didistribusikan dengan default PHP versi 7.2. Versi sebagian besar sudah mendukung aplikasi PHP modern contohnya seperti WordP..."
+  },
+  
+  {
+    "title": "Cara Membuat Server Block Nginx di CentOS 8",
+    "url": "/posts/cara-membuat-server-block-nginx-di-centos-8/",
+    "categories": "centos, nginx",
+    "tags": "",
+    "date": "2020-08-21 08:39:44 +0800",
+    
+
+
+
+
+
+    "snippet": "Nginx saat ini menjadi salah satu pemilihan yang tepat bagi Anda yang ingin mencoba dan menggunakan web server dengan performa yang bagus, cepat dan handal tentunya.Di Nginx terdapat server block. Apa itu Server Block?.Server Block merupakan metode yang dapat digunakan untuk menjalankan lebih dar..."
+  },
+  
+  {
+    "title": "Cara Instalasi Nginx Di CentOS 8",
+    "url": "/posts/cara-instalasi-nginx-di-centos-8/",
+    "categories": "centos, nginx",
+    "tags": "",
+    "date": "2020-08-20 22:54:56 +0800",
+    
+
+
+
+
+
+    "snippet": "Nginx adalah salah satu web server yang powerfull dan berbasis open source (bebas dan Free), dapat Anda gunakan untuk reverse proxy untuk mendukung web server apache serta dapat digunakan sebagai server proxy IMAP/POP3.Web server Nginx terkenal karena performanya yang tinggi, stabil, memiliki ban..."
+  },
+  
+  {
+    "title": "Cara Disable SELinux di CentOS 8",
+    "url": "/posts/cara-disable-selinux-di-centos-8/",
+    "categories": "centos, linux",
+    "tags": "",
+    "date": "2020-08-20 22:03:06 +0800",
+    
+
+
+
+
+
+    "snippet": "Security Enhanced Linux atau SELinux adalah mekanisme keamanan yang dibangun di dalam kernel Linux yang digunakan oleh distribusi berbasis RHEL.SELinux menambahkan lapisan keamanan tambahan ke sistem dengan mengizinkan administrator dan pengguna untuk mengontrol akses ke objek berdasarkan aturan ..."
+  },
+  
+  {
+    "title": "Cara Instalasi Python 3.8 di CentOS 8",
+    "url": "/posts/cara-instalasi-python-3-8-di-centos-8/",
+    "categories": "centos, linux",
+    "tags": "",
+    "date": "2020-08-20 21:39:57 +0800",
+    
+
+
+
+
+
+    "snippet": "Python adalah salah satu bahasa pemrograman yang paling banyak digunakan di dunia. Dengan sintaks nya yang sederhana dan mudah dipelajari, Python adalah pilihan populer untuk pemula dan pengembang berpengalaman. Python adalah bahasa pemrograman yang cukup serbaguna, dapat digunakan untuk membangu..."
+  },
+  
+  {
+    "title": "Cara Instalasi XRDP Server (Remote Dekstop) pada CentOS 8",
+    "url": "/posts/cara-install-xrdp-server-remote-dekstop-pada-centos-8/",
+    "categories": "centos, linux",
+    "tags": "",
+    "date": "2020-08-20 19:47:12 +0800",
+    
+
+
+
+
+
+    "snippet": "Xrdp adalah implementasi open-source dari Microsoft Remote Desktop Protocol (RDP) yang memungkinkan Anda mengontrol sistem jarak jauh secara grafis.Tutorial kali ini akan menjelaskan caraa instalasi dan konfigurasi server Xrdp di CentOS 8.Instalasi DE (Desktop Environment)Umumnya, server Linux ti..."
+  },
+  
+  {
+    "title": "Cara Mengatur Hostname Pada VM CentOS",
+    "url": "/posts/cara-mengatur-hostname-pada-vm-centos/",
+    "categories": "centos",
+    "tags": "",
+    "date": "2020-08-20 18:46:48 +0800",
+    
+
+
+
+
+
+    "snippet": "Hostname merupakan nama dari VM, untuk mengatur hostname di CentOS Anda hanya perlu menjalakan satu bari perintah saja.Perhatikan gambar dibawah iniGambar diatas hostname nya yaitu hamim-imapsync.neo.internal untuk mengubah hostname tersebut jalankan satu baris perintah berikut# hostnamectl set-h..."
+  },
+  
+  {
+    "title": "Cara Akses VM (Virtual Machine) Menggunakan PuTTY",
+    "url": "/posts/cara-akses-vm-virtual-machine-menggunakan-putty/",
+    "categories": "centos, ssh",
+    "tags": "",
+    "date": "2020-08-20 18:38:36 +0800",
+    
+
+
+
+
+
+    "snippet": "PuTTY adalah aplikasi yang dapat Anda gunakan untuk akses sebuah VM (Virtual Machine).PuTTY dapat berjalan di berbagai varian sistem operasi mulai dari Linux, Windows dan MacOS.Untuk mengunduh PuTTY dapat melalui link berikut: https://www.putty.org/Untuk mengakses VM melalui PuTTY sangatlah mudah..."
   }
   
 ]
