@@ -11,6 +11,8 @@ echo ""
 
 read -p "Masukan Commit : " commit;
 
+git pull
+
 git add .
 
 git commit -m "$commit";
@@ -20,6 +22,8 @@ git push
 echo "Deploy Website !!!"
 
 cd _site
+
+git pull
 
 git add . 
 
